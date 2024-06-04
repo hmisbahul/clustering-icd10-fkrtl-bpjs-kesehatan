@@ -1,0 +1,1820 @@
+FKL15A,ICD10_Text,Kategori
+A00,A00 Cholera,Penyakit Lainnya
+A01,A01 Typhoid and paratyphoid fevers,Penyakit Lainnya
+A02,A02 Other salmonella infections,Penyakit Lainnya
+A03,A03 Shigellosis,Penyakit Lainnya
+A04,A04 Other bacterial intestinal infections,Penyakit Lainnya
+A05,"A05 Other bacterial foodborne intoxications, not elsewhere classified",Penyakit Lainnya
+A06,A06 Amoebiasis,Penyakit Lainnya
+A07,A07 Other protozoal intestinal diseases,Penyakit Lainnya
+A08,A08 Viral and other specified intestinal infections,Penyakit Lainnya
+A09,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Penyakit Lainnya
+A15,"A15 Respiratory tuberculosis, bacteriologically and histologically confirmed",Penyakit Lainnya
+A16,"A16 Respiratory tuberculosis, not confirmed bacteriologically or histologically",Penyakit Lainnya
+A17,A17 Tuberculosis of nervous system,Penyakit Lainnya
+A18,A18 Tuberculosis of other organs,Penyakit Lainnya
+A19,A19 Miliary tuberculosis,Penyakit Lainnya
+A20,A20 Plague,Penyakit Lainnya
+A23,A23 Brucellosis,Penyakit Lainnya
+A25,A25 Rat-bite fevers,Penyakit Lainnya
+A27,A27 Leptospirosis,Penyakit Lainnya
+A30,A30 Leprosy [Hansen disease],Penyakit Lainnya
+A31,A31 Infection due to other mycobacteria,Penyakit Lainnya
+A32,A32 Listeriosis,Penyakit Lainnya
+A33,A33 Tetanus neonatorum,Penyakit Lainnya
+A35,A35 Other tetanus,Penyakit Lainnya
+A36,A36 Diphtheria,Penyakit Lainnya
+A37,A37 Whooping cough,Penyakit Lainnya
+A39,A39 Meningococcal infection,Penyakit Lainnya
+A40,A40 Streptococcal sepsis,Penyakit Lainnya
+A41,A41 Other sepsis,Penyakit Lainnya
+A42,A42 Actinomycosis,Penyakit Lainnya
+A44,A44 Bartonellosis,Penyakit Lainnya
+A46,A46 Erysipelas,Penyakit Lainnya
+A48,"A48 Other bacterial diseases, not elsewhere classified",Penyakit Lainnya
+A49,A49 Bacterial infection of unspecified site,Penyakit Lainnya
+A50,A50 Congenital syphilis,Penyakit Lainnya
+A51,A51 Early syphilis,Penyakit Lainnya
+A52,A52 Late syphilis,Penyakit Lainnya
+A53,A53 Other and unspecified syphilis,Penyakit Lainnya
+A54,A54 Gonococcal infection,Penyakit Lainnya
+A56,A56 Other sexually transmitted chlamydial diseases,Penyakit Lainnya
+A57,A57 Chancroid,Penyakit Lainnya
+A58,A58 Granuloma inguinale,Penyakit Lainnya
+A59,A59 Trichomoniasis,Penyakit Lainnya
+A60,A60 Anogenital herpesviral [herpes simplex] infection,Penyakit Lainnya
+A63,"A63 Other predominantly sexually transmitted diseases, not elsewhere classified",Penyakit Lainnya
+A64,A64 Unspecified sexually transmitted disease,Penyakit Lainnya
+A66,A66 Yaws,Penyakit Lainnya
+A68,A68 Relapsing fevers,Penyakit Lainnya
+A69,A69 Other spirochaetal infections,Penyakit Lainnya
+A71,A71 Trachoma,Penyakit Lainnya
+A74,A74 Other diseases caused by chlamydiae,Penyakit Lainnya
+A75,A75 Typhus fever,Penyakit Lainnya
+A77,A77 Spotted fever [tick-borne rickettsioses],Penyakit Lainnya
+A79,A79 Other rickettsioses,Penyakit Lainnya
+A81,A81 Atypical virus infections of central nervous system,Penyakit Lainnya
+A82,A82 Rabies,Penyakit Lainnya
+A85,"A85 Other viral encephalitis, not elsewhere classified",Penyakit Lainnya
+A86,A86 Unspecified viral encephalitis,Penyakit Lainnya
+A87,A87 Viral meningitis,Penyakit Lainnya
+A88,"A88 Other viral infections of central nervous system, not elsewhere classified",Penyakit Lainnya
+A90,A90 Dengue fever [classical dengue],Penyakit Lainnya
+A91,A91 Dengue haemorrhagic fever,Penyakit Lainnya
+A92,A92 Other mosquito-borne viral fevers,Penyakit Lainnya
+A98,"A98 Other viral haemorrhagic fevers, not elsewhere classified",Penyakit Lainnya
+A99,A99 Unspecified viral haemorrhagic fever,Penyakit Lainnya
+B00,B00 Herpesviral [herpes simplex] infections,Penyakit Lainnya
+B01,B01 Varicella [chickenpox],Penyakit Lainnya
+B02,B02 Zoster [herpes zoster],Penyakit Lainnya
+B05,B05 Measles,Penyakit Lainnya
+B06,B06 Rubella [German measles],Penyakit Lainnya
+B07,B07 Viral warts,Penyakit Lainnya
+B08,"B08 Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",Penyakit Lainnya
+B09,B09 Unspecified viral infection characterized by skin and mucous membrane lesions,Penyakit Lainnya
+B15,B15 Acute hepatitis A,Penyakit Lainnya
+B16,B16 Acute hepatitis B,Penyakit Lainnya
+B17,B17 Other acute viral hepatitis,Penyakit Lainnya
+B18,B18 Chronic viral hepatitis,Penyakit Lainnya
+B19,B19 Unspecified viral hepatitis,Penyakit Lainnya
+B20,B20 Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Penyakit Lainnya
+B21,B21 Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,Penyakit Lainnya
+B22,B22 Human immunodeficiency virus [HIV] disease resulting in other specified diseases,Penyakit Lainnya
+B23,B23 Human immunodeficiency virus [HIV] disease resulting in other conditions,Penyakit Lainnya
+B24,B24 Unspecified human immunodeficiency virus [HIV] disease,Penyakit Lainnya
+B25,B25 Cytomegaloviral disease,Penyakit Lainnya
+B26,B26 Mumps,Penyakit Lainnya
+B30,B30 Viral conjunctivitis,Penyakit Lainnya
+B33,"B33 Other viral diseases, not elsewhere classified",Penyakit Lainnya
+B34,B34 Viral infection of unspecified site,Penyakit Lainnya
+B35,B35 Dermatophytosis,Penyakit Lainnya
+B36,B36 Other superficial mycoses,Penyakit Lainnya
+B37,B37 Candidiasis,Penyakit Lainnya
+B38,B38 Coccidioidomycosis,Penyakit Lainnya
+B39,B39 Histoplasmosis,Penyakit Lainnya
+B42,B42 Sporotrichosis,Penyakit Lainnya
+B43,B43 Chromomycosis and phaeomycotic abscess,Penyakit Lainnya
+B44,B44 Aspergillosis,Penyakit Lainnya
+B45,B45 Cryptococcosis,Penyakit Lainnya
+B46,B46 Zygomycosis,Penyakit Lainnya
+B48,"B48 Other mycoses, not elsewhere classified",Penyakit Lainnya
+B49,B49 Unspecified mycosis,Penyakit Lainnya
+B50,B50 Plasmodium falciparum malaria,Penyakit Lainnya
+B51,B51 Plasmodium vivax malaria,Penyakit Lainnya
+B52,B52 Plasmodium malariae malaria,Penyakit Lainnya
+B53,B53 Other parasitologically confirmed malaria,Penyakit Lainnya
+B54,B54 Unspecified malaria,Penyakit Lainnya
+B58,B58 Toxoplasmosis,Penyakit Lainnya
+B59,B59 Pneumocystosis,Penyakit Lainnya
+B65,B65 Schistosomiasis [bilharziasis],Penyakit Lainnya
+B66,B66 Other fluke infections,Penyakit Lainnya
+B67,B67 Echinococcosis,Penyakit Lainnya
+B68,B68 Taeniasis,Penyakit Lainnya
+B69,B69 Cysticercosis,Penyakit Lainnya
+B71,B71 Other cestode infections,Penyakit Lainnya
+B74,B74 Filariasis,Penyakit Lainnya
+B76,B76 Hookworm diseases,Penyakit Lainnya
+B77,B77 Ascariasis,Penyakit Lainnya
+B82,B82 Unspecified intestinal parasitism,Penyakit Lainnya
+B83,B83 Other helminthiases,Penyakit Lainnya
+B85,B85 Pediculosis and phthiriasis,Penyakit Lainnya
+B86,B86 Scabies,Penyakit Lainnya
+B87,B87 Myiasis,Penyakit Lainnya
+B88,B88 Other infestations,Penyakit Lainnya
+B90,B90 Sequelae of tuberculosis,Penyakit Lainnya
+B92,B92 Sequelae of leprosy,Penyakit Lainnya
+B94,B94 Sequelae of other and unspecified infectious and parasitic diseases,Penyakit Lainnya
+B95,B95 Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Penyakit Lainnya
+B96,B96 Other specified bacterial agents as the cause of diseases classified to other chapters,Penyakit Lainnya
+B97,B97 Viral agents as the cause of diseases classified to other chapters,Penyakit Lainnya
+B99,B99 Other and unspecified infectious diseases,Penyakit Lainnya
+C00,C00 Malignant neoplasm of lip,Katastropik
+C01,C01 Malignant neoplasm of base of tongue,Katastropik
+C02,C02 Malignant neoplasm of other and unspecified parts of tongue,Katastropik
+C03,C03 Malignant neoplasm of gum,Katastropik
+C04,C04 Malignant neoplasm of floor of mouth,Katastropik
+C05,C05 Malignant neoplasm of palate,Katastropik
+C06,C06 Malignant neoplasm of other and unspecified parts of mouth,Katastropik
+C07,C07 Malignant neoplasm of parotid gland,Katastropik
+C08,C08 Malignant neoplasm of other and unspecified major salivary glands,Katastropik
+C09,C09 Malignant neoplasm of tonsil,Katastropik
+C10,C10 Malignant neoplasm of oropharynx,Katastropik
+C11,C11 Malignant neoplasm of nasopharynx,Katastropik
+C12,C12 Malignant neoplasm of piriform sinus,Katastropik
+C14,"C14 Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",Katastropik
+C15,C15 Malignant neoplasm of oesophagus,Katastropik
+C16,C16 Malignant neoplasm of stomach,Katastropik
+C17,C17 Malignant neoplasm of small intestine,Katastropik
+C18,C18 Malignant neoplasm of colon,Katastropik
+C19,C19 Malignant neoplasm of rectosigmoid junction,Katastropik
+C20,C20 Malignant neoplasm of rectum,Katastropik
+C21,C21 Malignant neoplasm of anus and anal canal,Katastropik
+C22,C22 Malignant neoplasm of liver and intrahepatic bile ducts,Katastropik
+C23,C23 Malignant neoplasm of gallbladder,Katastropik
+C24,C24 Malignant neoplasm of other and unspecified parts of biliary tract,Katastropik
+C25,C25 Malignant neoplasm of pancreas,Katastropik
+C26,C26 Malignant neoplasm of other and ill-defined digestive organs,Katastropik
+C30,C30 Malignant neoplasm of nasal cavity and middle ear,Katastropik
+C31,C31 Malignant neoplasm of accessory sinuses,Katastropik
+C32,C32 Malignant neoplasm of larynx,Katastropik
+C33,C33 Malignant neoplasm of trachea,Katastropik
+C34,C34 Malignant neoplasm of bronchus and lung,Katastropik
+C37,C37 Malignant neoplasm of thymus,Katastropik
+C38,"C38 Malignant neoplasm of heart, mediastinum and pleura",Katastropik
+C40,C40 Malignant neoplasm of bone and articular cartilage of limbs,Katastropik
+C41,C41 Malignant neoplasm of bone and articular cartilage of other and unspecified sites,Katastropik
+C43,C43 Malignant melanoma of skin,Katastropik
+C44,C44 Other malignant neoplasms of skin,Katastropik
+C45,C45 Mesothelioma,Katastropik
+C46,C46 Kaposi sarcoma,Katastropik
+C47,C47 Malignant neoplasm of peripheral nerves and autonomic nervous system,Katastropik
+C49,C49 Malignant neoplasm of other connective and soft tissue,Katastropik
+C50,C50 Malignant neoplasm of breast,Katastropik
+C51,C51 Malignant neoplasm of vulva,Katastropik
+C52,C52 Malignant neoplasm of vagina,Katastropik
+C53,C53 Malignant neoplasm of cervix uteri,Katastropik
+C54,C54 Malignant neoplasm of corpus uteri,Katastropik
+C55,"C55 Malignant neoplasm of uterus, part unspecified",Katastropik
+C56,C56 Malignant neoplasm of ovary,Katastropik
+C57,C57 Malignant neoplasm of other and unspecified female genital organs,Katastropik
+C58,C58 Malignant neoplasm of placenta,Katastropik
+C60,C60 Malignant neoplasm of penis,Katastropik
+C61,C61 Malignant neoplasm of prostate,Katastropik
+C62,C62 Malignant neoplasm of testis,Katastropik
+C63,C63 Malignant neoplasm of other and unspecified male genital organs,Katastropik
+C64,"C64 Malignant neoplasm of kidney, except renal pelvis",Katastropik
+C65,C65 Malignant neoplasm of renal pelvis,Katastropik
+C66,C66 Malignant neoplasm of ureter,Katastropik
+C67,C67 Malignant neoplasm of bladder,Katastropik
+C68,C68 Malignant neoplasm of other and unspecified urinary organs,Katastropik
+C69,C69 Malignant neoplasm of eye and adnexa,Katastropik
+C70,C70 Malignant neoplasm of meninges,Katastropik
+C71,C71 Malignant neoplasm of brain,Katastropik
+C73,C73 Malignant neoplasm of thyroid gland,Katastropik
+C74,C74 Malignant neoplasm of adrenal gland,Katastropik
+C75,C75 Malignant neoplasm of other endocrine glands and related structures,Katastropik
+C76,C76 Malignant neoplasm of other and ill-defined sites,Katastropik
+C77,C77 Secondary and unspecified malignant neoplasm of lymph nodes,Katastropik
+C78,C78 Secondary malignant neoplasm of respiratory and digestive organs,Katastropik
+C79,C79 Secondary malignant neoplasm of other and unspecified sites,Katastropik
+C80,"C80 Malignant neoplasm, without specification of site",Katastropik
+C81,C81 Hodgkin lymphoma,Katastropik
+C82,C82 Follicular lymphoma,Katastropik
+C83,C83 Non-follicular lymphoma,Katastropik
+C84,C84 Mature T/NK-cell lymphomas,Katastropik
+C85,C85 Other and unspecified types of non-Hodgkin lymphoma,Penyakit Lainnya
+C90,C90 Multiple myeloma and malignant plasma cell neoplasms,Katastropik
+C91,C91 Lymphoid leukaemia,Katastropik
+C92,C92 Myeloid leukaemia,Katastropik
+C93,C93 Monocytic leukaemia,Katastropik
+C94,C94 Other leukaemias of specified cell type,Katastropik
+C95,C95 Leukaemia of unspecified cell type,Katastropik
+C96,"C96 Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",Katastropik
+C97,C97 Malignant neoplasms of independent (primary) multiple sites,Katastropik
+D00,"D00 Carcinoma in situ of oral cavity, oesophagus and stomach",Penyakit Lainnya
+D01,D01 Carcinoma in situ of other and unspecified digestive organs,Penyakit Lainnya
+D02,D02 Carcinoma in situ of middle ear and respiratory system,Penyakit Lainnya
+D03,D03 Melanoma in situ,Penyakit Lainnya
+D04,D04 Carcinoma in situ of skin,Penyakit Lainnya
+D05,D05 Carcinoma in situ of breast,Penyakit Lainnya
+D06,D06 Carcinoma in situ of cervix uteri,Penyakit Lainnya
+D07,D07 Carcinoma in situ of other and unspecified genital organs,Penyakit Lainnya
+D09,D09 Carcinoma in situ of other and unspecified sites,Penyakit Lainnya
+D10,D10 Benign neoplasm of mouth and pharynx,Penyakit Lainnya
+D11,D11 Benign neoplasm of major salivary glands,Penyakit Lainnya
+D12,"D12 Benign neoplasm of colon, rectum, anus and anal canal",Penyakit Lainnya
+D13,D13 Benign neoplasm of other and ill-defined parts of digestive system,Penyakit Lainnya
+D14,D14 Benign neoplasm of middle ear and respiratory system,Penyakit Lainnya
+D15,D15 Benign neoplasm of other and unspecified intrathoracic organs,Penyakit Lainnya
+D16,D16 Benign neoplasm of bone and articular cartilage,Penyakit Lainnya
+D17,D17 Benign lipomatous neoplasm,Penyakit Lainnya
+D18,"D18 Haemangioma and lymphangioma, any site",Penyakit Lainnya
+D19,D19 Benign neoplasm of mesothelial tissue,Penyakit Lainnya
+D20,D20 Benign neoplasm of soft tissue of retroperitoneum and peritoneum,Penyakit Lainnya
+D21,D21 Other benign neoplasms of connective and other soft tissue,Penyakit Lainnya
+D22,D22 Melanocytic naevi,Penyakit Lainnya
+D23,D23 Other benign neoplasms of skin,Penyakit Lainnya
+D24,D24 Benign neoplasm of breast,Penyakit Lainnya
+D25,D25 Leiomyoma of uterus,Penyakit Lainnya
+D26,D26 Other benign neoplasms of uterus,Penyakit Lainnya
+D27,D27 Benign neoplasm of ovary,Penyakit Lainnya
+D28,D28 Benign neoplasm of other and unspecified female genital organs,Penyakit Lainnya
+D29,D29 Benign neoplasm of male genital organs,Penyakit Lainnya
+D30,D30 Benign neoplasm of urinary organs,Penyakit Lainnya
+D31,D31 Benign neoplasm of eye and adnexa,Penyakit Lainnya
+D32,D32 Benign neoplasm of meninges,Penyakit Lainnya
+D33,D33 Benign neoplasm of brain and other parts of central nervous system,Penyakit Lainnya
+D34,D34 Benign neoplasm of thyroid gland,Penyakit Lainnya
+D35,D35 Benign neoplasm of other and unspecified endocrine glands,Penyakit Lainnya
+D36,D36 Benign neoplasm of other and unspecified sites,Penyakit Lainnya
+D37,D37 Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,Katastropik
+D38,D38 Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,Katastropik
+D39,D39 Neoplasm of uncertain or unknown behaviour of female genital organs,Katastropik
+D40,D40 Neoplasm of uncertain or unknown behaviour of male genital organs,Katastropik
+D41,D41 Neoplasm of uncertain or unknown behaviour of urinary organs,Katastropik
+D42,D42 Neoplasm of uncertain or unknown behaviour of meninges,Katastropik
+D43,D43 Neoplasm of uncertain or unknown behaviour of brain and central nervous system,Katastropik
+D44,D44 Neoplasm of uncertain or unknown behaviour of endocrine glands,Katastropik
+D45,D45 Polycythaemia vera,Katastropik
+D46,D46 Myelodysplastic syndromes,Katastropik
+D47,"D47 Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",Katastropik
+D48,D48 Neoplasm of uncertain or unknown behaviour of other and unspecified sites,Katastropik
+D50,D50 Iron deficiency anaemia,Penyakit Lainnya
+D51,D51 Vitamin B12 deficiency anaemia,Penyakit Lainnya
+D52,D52 Folate deficiency anaemia,Penyakit Lainnya
+D53,D53 Other nutritional anaemias,Penyakit Lainnya
+D55,D55 Anaemia due to enzyme disorders,Penyakit Lainnya
+D56,D56 Thalassaemia,Katastropik
+D58,D58 Other hereditary haemolytic anaemias,Penyakit Lainnya
+D59,D59 Acquired haemolytic anaemia,Penyakit Lainnya
+D61,D61 Other aplastic anaemias,Penyakit Lainnya
+D62,D62 Acute posthaemorrhagic anaemia,Penyakit Lainnya
+D64,D64 Other anaemias,Penyakit Lainnya
+D65,D65 Disseminated intravascular coagulation [defibrination syndrome],Katastropik
+D66,D66 Hereditary factor VIII deficiency,Penyakit Lainnya
+D67,D67 Hereditary factor IX deficiency,Penyakit Lainnya
+D68,D68 Other coagulation defects,Katastropik
+D69,D69 Purpura and other haemorrhagic conditions,Katastropik
+D70,D70 Agranulocytosis,Katastropik
+D72,D72 Other disorders of white blood cells,Penyakit Lainnya
+D73,D73 Diseases of spleen,Katastropik
+D75,D75 Other diseases of blood and blood-forming organs,Penyakit Lainnya
+D76,D76 Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,Katastropik
+D80,D80 Immunodeficiency with predominantly antibody defects,Penyakit Lainnya
+D81,D81 Combined immunodeficiencies,Penyakit Lainnya
+D83,D83 Common variable immunodeficiency,Penyakit Lainnya
+D84,D84 Other immunodeficiencies,Penyakit Lainnya
+D86,D86 Sarcoidosis,Penyakit Lainnya
+D89,"D89 Other disorders involving the immune mechanism, not elsewhere classified",Penyakit Lainnya
+E01,E01 Iodine-deficiency-related thyroid disorders and allied conditions,Penyakit Lainnya
+E02,E02 Subclinical iodine-deficiency hypothyroidism,Penyakit Lainnya
+E03,E03 Other hypothyroidism,Penyakit Lainnya
+E04,E04 Other nontoxic goitre,Penyakit Lainnya
+E05,E05 Thyrotoxicosis [hyperthyroidism],Penyakit Lainnya
+E06,E06 Thyroiditis,Penyakit Lainnya
+E07,E07 Other disorders of thyroid,Penyakit Lainnya
+E10,E10 Type 1 diabetes mellitus,Katastropik
+E11,E11 Type 2 diabetes mellitus,Katastropik
+E12,E12 Malnutrition-related diabetes mellitus,Katastropik
+E13,E13 Other specified diabetes mellitus,Katastropik
+E14,E14 Unspecified diabetes mellitus,Penyakit Lainnya
+E15,E15 Nondiabetic hypoglycaemic coma,Penyakit Lainnya
+E16,E16 Other disorders of pancreatic internal secretion,Penyakit Lainnya
+E20,E20 Hypoparathyroidism,Penyakit Lainnya
+E21,E21 Hyperparathyroidism and other disorders of parathyroid gland,Penyakit Lainnya
+E22,E22 Hyperfunction of pituitary gland,Katastropik
+E23,E23 Hypofunction and other disorders of pituitary gland,Katastropik
+E24,E24 Cushing syndrome,Katastropik
+E26,E26 Hyperaldosteronism,Penyakit Lainnya
+E27,E27 Other disorders of adrenal gland,Penyakit Lainnya
+E28,E28 Ovarian dysfunction,Penyakit Lainnya
+E30,"E30 Disorders of puberty, not elsewhere classified",Penyakit Lainnya
+E32,E32 Diseases of thymus,Penyakit Lainnya
+E34,E34 Other endocrine disorders,Penyakit Lainnya
+E40,E40 Kwashiorkor,Penyakit Lainnya
+E41,E41 Nutritional marasmus,Penyakit Lainnya
+E43,E43 Unspecified severe protein-energy malnutrition,Penyakit Lainnya
+E44,E44 Protein-energy malnutrition of moderate and mild degree,Penyakit Lainnya
+E45,E45 Retarded development following protein-energy malnutrition,Katastropik
+E46,E46 Unspecified protein-energy malnutrition,Penyakit Lainnya
+E50,E50 Vitamin A deficiency,Penyakit Lainnya
+E63,E63 Other nutritional deficiencies,Penyakit Lainnya
+E64,E64 Sequelae of malnutrition and other nutritional deficiencies,Penyakit Lainnya
+E66,E66 Obesity,Penyakit Lainnya
+E67,E67 Other hyperalimentation,Penyakit Lainnya
+E70,E70 Disorders of aromatic amino-acid metabolism,Penyakit Lainnya
+E73,E73 Lactose intolerance,Penyakit Lainnya
+E74,E74 Other disorders of carbohydrate metabolism,Penyakit Lainnya
+E75,E75 Disorders of sphingolipid metabolism and other lipid storage disorders,Penyakit Lainnya
+E78,E78 Disorders of lipoprotein metabolism and other lipidaemias,Penyakit Lainnya
+E79,E79 Disorders of purine and pyrimidine metabolism,Penyakit Lainnya
+E80,E80 Disorders of porphyrin and bilirubin metabolism,Penyakit Lainnya
+E83,E83 Disorders of mineral metabolism,Penyakit Lainnya
+E84,E84 Cystic fibrosis,Penyakit Lainnya
+E85,E85 Amyloidosis,Penyakit Lainnya
+E86,E86 Volume depletion,Penyakit Lainnya
+E87,"E87 Other disorders of fluid, electrolyte and acid-base balance",Penyakit Lainnya
+E88,E88 Other metabolic disorders,Penyakit Lainnya
+E89,"E89 Postprocedural endocrine and metabolic disorders, not elsewhere classified",Katastropik
+F01,F01 Vascular dementia,Penyakit Lainnya
+F03,F03 Unspecified dementia,Penyakit Lainnya
+F04,"F04 Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",Penyakit Lainnya
+F05,"F05 Delirium, not induced by alcohol and other psychoactive substances",Penyakit Lainnya
+F06,F06 Other mental disorders due to brain damage and dysfunction and to physical disease,Penyakit Lainnya
+F07,"F07 Personality and behavioural disorders due to brain disease, damage and dysfunction",Penyakit Lainnya
+F09,F09 Unspecified organic or symptomatic mental disorder,Penyakit Lainnya
+F10,F10 Mental and behavioural disorders due to use of alcohol,Penyakit Lainnya
+F13,F13 Mental and behavioural disorders due to use of sedatives or hypnotics,Penyakit Lainnya
+F14,F14 Mental and behavioural disorders due to use of cocaine,Penyakit Lainnya
+F15,"F15 Mental and behavioural disorders due to use of other stimulants, including caffeine",Penyakit Lainnya
+F18,F18 Mental and behavioural disorders due to use of volatile solvents,Penyakit Lainnya
+F19,F19 Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Penyakit Lainnya
+F20,F20 Schizophrenia,Penyakit Lainnya
+F21,F21 Schizotypal disorder,Penyakit Lainnya
+F22,F22 Persistent delusional disorders,Penyakit Lainnya
+F23,F23 Acute and transient psychotic disorders,Penyakit Lainnya
+F25,F25 Schizoaffective disorders,Penyakit Lainnya
+F28,F28 Other nonorganic psychotic disorders,Penyakit Lainnya
+F29,F29 Unspecified nonorganic psychosis,Penyakit Lainnya
+F30,F30 Manic episode,Penyakit Lainnya
+F31,F31 Bipolar affective disorder,Penyakit Lainnya
+F32,F32 Depressive episode,Penyakit Lainnya
+F33,F33 Recurrent depressive disorder,Penyakit Lainnya
+F34,F34 Persistent mood [affective] disorders,Penyakit Lainnya
+F38,F38 Other mood [affective] disorders,Penyakit Lainnya
+F39,F39 Unspecified mood [affective] disorder,Penyakit Lainnya
+F40,F40 Phobic anxiety disorders,Penyakit Lainnya
+F41,F41 Other anxiety disorders,Penyakit Lainnya
+F42,F42 Obsessive-compulsive disorder,Penyakit Lainnya
+F43,"F43 Reaction to severe stress, and adjustment disorders",Penyakit Lainnya
+F44,F44 Dissociative [conversion] disorders,Penyakit Lainnya
+F45,F45 Somatoform disorders,Penyakit Lainnya
+F48,F48 Other neurotic disorders,Penyakit Lainnya
+F50,F50 Eating disorders,Penyakit Lainnya
+F51,F51 Nonorganic sleep disorders,Penyakit Lainnya
+F52,"F52 Sexual dysfunction, not caused by organic disorder or disease",Penyakit Lainnya
+F53,"F53 Mental and behavioural disorders associated with the puerperium, not elsewhere classified",Penyakit Lainnya
+F59,F59 Unspecified behavioural syndromes associated with physiological disturbances and physical factors,Penyakit Lainnya
+F60,F60 Specific personality disorders,Penyakit Lainnya
+F63,F63 Habit and impulse disorders,Penyakit Lainnya
+F65,F65 Disorders of sexual preference,Penyakit Lainnya
+F70,F70 Mild mental retardation,Penyakit Lainnya
+F71,F71 Moderate mental retardation,Penyakit Lainnya
+F72,F72 Severe mental retardation,Penyakit Lainnya
+F78,F78 Other mental retardation,Penyakit Lainnya
+F79,F79 Unspecified mental retardation,Penyakit Lainnya
+F80,F80 Specific developmental disorders of speech and language,Penyakit Lainnya
+F81,F81 Specific developmental disorders of scholastic skills,Penyakit Lainnya
+F82,F82 Specific developmental disorder of motor function,Penyakit Lainnya
+F83,F83 Mixed specific developmental disorders,Penyakit Lainnya
+F84,F84 Pervasive developmental disorders,Penyakit Lainnya
+F88,F88 Other disorders of psychological development,Penyakit Lainnya
+F89,F89 Unspecified disorder of psychological development,Penyakit Lainnya
+F90,F90 Hyperkinetic disorders,Penyakit Lainnya
+F91,F91 Conduct disorders,Penyakit Lainnya
+F92,F92 Mixed disorders of conduct and emotions,Penyakit Lainnya
+F93,F93 Emotional disorders with onset specific to childhood,Penyakit Lainnya
+F95,F95 Tic disorders,Penyakit Lainnya
+F98,F98 Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,Penyakit Lainnya
+F99,"F99 Mental disorder, not otherwise specified",Penyakit Lainnya
+G00,"G00 Bacterial meningitis, not elsewhere classified",Penyakit Lainnya
+G03,G03 Meningitis due to other and unspecified causes,Penyakit Lainnya
+G04,"G04 Encephalitis, myelitis and encephalomyelitis",Penyakit Lainnya
+G06,G06 Intracranial and intraspinal abscess and granuloma,Penyakit Lainnya
+G09,G09 Sequelae of inflammatory diseases of central nervous system,Penyakit Lainnya
+G10,G10 Huntington disease,Penyakit Lainnya
+G11,G11 Hereditary ataxia,Penyakit Lainnya
+G12,G12 Spinal muscular atrophy and related syndromes,Penyakit Lainnya
+G20,G20 Parkinson disease,Penyakit Lainnya
+G21,G21 Secondary parkinsonism,Penyakit Lainnya
+G23,G23 Other degenerative diseases of basal ganglia,Penyakit Lainnya
+G24,G24 Dystonia,Penyakit Lainnya
+G25,G25 Other extrapyramidal and movement disorders,Penyakit Lainnya
+G30,G30 Alzheimer disease,Penyakit Lainnya
+G31,"G31 Other degenerative diseases of nervous system, not elsewhere classified",Penyakit Lainnya
+G35,G35 Multiple sclerosis,Penyakit Lainnya
+G36,G36 Other acute disseminated demyelination,Penyakit Lainnya
+G37,G37 Other demyelinating diseases of central nervous system,Penyakit Lainnya
+G40,G40 Epilepsy,Penyakit Lainnya
+G41,G41 Status epilepticus,Penyakit Lainnya
+G43,G43 Migraine,Penyakit Lainnya
+G44,G44 Other headache syndromes,Penyakit Lainnya
+G45,G45 Transient cerebral ischaemic attacks and related syndromes,Penyakit Lainnya
+G47,G47 Sleep disorders,Penyakit Lainnya
+G50,G50 Disorders of trigeminal nerve,Penyakit Lainnya
+G51,G51 Facial nerve disorders,Penyakit Lainnya
+G52,G52 Disorders of other cranial nerves,Penyakit Lainnya
+G54,G54 Nerve root and plexus disorders,Penyakit Lainnya
+G56,G56 Mononeuropathies of upper limb,Penyakit Lainnya
+G57,G57 Mononeuropathies of lower limb,Penyakit Lainnya
+G58,G58 Other mononeuropathies,Penyakit Lainnya
+G60,G60 Hereditary and idiopathic neuropathy,Penyakit Lainnya
+G61,G61 Inflammatory polyneuropathy,Penyakit Lainnya
+G62,G62 Other polyneuropathies,Penyakit Lainnya
+G63,G63 Polyneuropathy in diseases classified elsewhere,Penyakit Lainnya
+G64,G64 Other disorders of peripheral nervous system,Penyakit Lainnya
+G70,G70 Myasthenia gravis and other myoneural disorders,Penyakit Lainnya
+G71,G71 Primary disorders of muscles,Penyakit Lainnya
+G72,G72 Other myopathies,Penyakit Lainnya
+G80,G80 Cerebral palsy,Penyakit Lainnya
+G81,G81 Hemiplegia,Penyakit Lainnya
+G82,G82 Paraplegia and tetraplegia,Penyakit Lainnya
+G83,G83 Other paralytic syndromes,Penyakit Lainnya
+G90,G90 Disorders of autonomic nervous system,Penyakit Lainnya
+G91,G91 Hydrocephalus,Penyakit Lainnya
+G92,G92 Toxic encephalopathy,Penyakit Lainnya
+G93,G93 Other disorders of brain,Penyakit Lainnya
+G95,G95 Other diseases of spinal cord,Penyakit Lainnya
+G96,G96 Other disorders of central nervous system,Penyakit Lainnya
+G97,"G97 Postprocedural disorders of nervous system, not elsewhere classified",Penyakit Lainnya
+G98,"G98 Other disorders of nervous system, not elsewhere classified",Penyakit Lainnya
+H00,H00 Hordeolum and chalazion,Penyakit Lainnya
+H01,H01 Other inflammation of eyelid,Penyakit Lainnya
+H02,H02 Other disorders of eyelid,Penyakit Lainnya
+H04,H04 Disorders of lacrimal system,Penyakit Lainnya
+H05,H05 Disorders of orbit,Penyakit Lainnya
+H10,H10 Conjunctivitis,Penyakit Lainnya
+H11,H11 Other disorders of conjunctiva,Penyakit Lainnya
+H15,H15 Disorders of sclera,Penyakit Lainnya
+H16,H16 Keratitis,Penyakit Lainnya
+H17,H17 Corneal scars and opacities,Penyakit Lainnya
+H18,H18 Other disorders of cornea,Penyakit Lainnya
+H20,H20 Iridocyclitis,Penyakit Lainnya
+H21,H21 Other disorders of iris and ciliary body,Penyakit Lainnya
+H25,H25 Senile cataract,Penyakit Lainnya
+H26,H26 Other cataract,Penyakit Lainnya
+H27,H27 Other disorders of lens,Penyakit Lainnya
+H30,H30 Chorioretinal inflammation,Penyakit Lainnya
+H31,H31 Other disorders of choroid,Penyakit Lainnya
+H33,H33 Retinal detachments and breaks,Penyakit Lainnya
+H34,H34 Retinal vascular occlusions,Penyakit Lainnya
+H35,H35 Other retinal disorders,Penyakit Lainnya
+H40,H40 Glaucoma,Penyakit Lainnya
+H43,H43 Disorders of vitreous body,Penyakit Lainnya
+H44,H44 Disorders of globe,Penyakit Lainnya
+H46,H46 Optic neuritis,Penyakit Lainnya
+H47,H47 Other disorders of optic [2nd] nerve and visual pathways,Penyakit Lainnya
+H49,H49 Paralytic strabismus,Penyakit Lainnya
+H50,H50 Other strabismus,Penyakit Lainnya
+H51,H51 Other disorders of binocular movement,Penyakit Lainnya
+H52,H52 Disorders of refraction and accommodation,Penyakit Lainnya
+H53,H53 Visual disturbances,Penyakit Lainnya
+H54,H54 Visual impairment including blindness (binocular or monocular),Penyakit Lainnya
+H55,H55 Nystagmus and other irregular eye movements,Penyakit Lainnya
+H57,H57 Other disorders of eye and adnexa,Penyakit Lainnya
+H59,"H59 Postprocedural disorders of eye and adnexa, not elsewhere classified",Penyakit Lainnya
+H60,H60 Otitis externa,Penyakit Lainnya
+H61,H61 Other disorders of external ear,Penyakit Lainnya
+H65,H65 Nonsuppurative otitis media,Penyakit Lainnya
+H66,H66 Suppurative and unspecified otitis media,Penyakit Lainnya
+H68,H68 Eustachian salpingitis and obstruction,Penyakit Lainnya
+H69,H69 Other disorders of Eustachian tube,Penyakit Lainnya
+H70,H70 Mastoiditis and related conditions,Penyakit Lainnya
+H71,H71 Cholesteatoma of middle ear,Penyakit Lainnya
+H72,H72 Perforation of tympanic membrane,Penyakit Lainnya
+H73,H73 Other disorders of tympanic membrane,Penyakit Lainnya
+H74,H74 Other disorders of middle ear and mastoid,Penyakit Lainnya
+H80,H80 Otosclerosis,Penyakit Lainnya
+H81,H81 Disorders of vestibular function,Penyakit Lainnya
+H83,H83 Other diseases of inner ear,Penyakit Lainnya
+H90,H90 Conductive and sensorineural hearing loss,Penyakit Lainnya
+H91,H91 Other hearing loss,Penyakit Lainnya
+H92,H92 Otalgia and effusion of ear,Penyakit Lainnya
+H93,"H93 Other disorders of ear, not elsewhere classified",Penyakit Lainnya
+H95,"H95 Postprocedural disorders of ear and mastoid process, not elsewhere classified",Penyakit Lainnya
+I00,I00 Rheumatic fever without mention of heart involvement,Katastropik
+I01,I01 Rheumatic fever with heart involvement,Katastropik
+I02,I02 Rheumatic chorea,Penyakit Lainnya
+I05,I05 Rheumatic mitral valve diseases,Katastropik
+I06,I06 Rheumatic aortic valve diseases,Katastropik
+I07,I07 Rheumatic tricuspid valve diseases,Katastropik
+I08,I08 Multiple valve diseases,Katastropik
+I09,I09 Other rheumatic heart diseases,Katastropik
+I10,I10 Essential (primary) hypertension,Katastropik
+I11,I11 Hypertensive heart disease,Katastropik
+I12,I12 Hypertensive renal disease,Katastropik
+I13,I13 Hypertensive heart and renal disease,Katastropik
+I15,I15 Secondary hypertension,Katastropik
+I20,I20 Angina pectoris,Katastropik
+I21,I21 Acute myocardial infarction,Katastropik
+I22,I22 Subsequent myocardial infarction,Katastropik
+I23,I24 Other acute ischaemic heart diseases,Katastropik
+I24,I24 Other acute ischaemic heart diseases,Katastropik
+I25,I25 Chronic ischaemic heart disease,Katastropik
+I26,I26 Pulmonary embolism,Katastropik
+I27,I27 Other pulmonary heart diseases,Katastropik
+I28,I28 Other diseases of pulmonary vessels,Katastropik
+I30,I30 Acute pericarditis,Katastropik
+I31,I31 Other diseases of pericardium,Penyakit Lainnya
+I33,I33 Acute and subacute endocarditis,Katastropik
+I34,I34 Nonrheumatic mitral valve disorders,Katastropik
+I35,I35 Nonrheumatic aortic valve disorders,Katastropik
+I37,I37 Pulmonary valve disorders,Katastropik
+I38,"I38 Endocarditis, valve unspecified",Katastropik
+I40,I40 Acute myocarditis,Katastropik
+I42,I42 Cardiomyopathy,Katastropik
+I44,I44 Atrioventricular and left bundle-branch block,Penyakit Lainnya
+I45,I45 Other conduction disorders,Penyakit Lainnya
+I46,I46 Cardiac arrest,Katastropik
+I47,I47 Paroxysmal tachycardia,Katastropik
+I48,I48 Atrial fibrillation and flutter,Katastropik
+I49,I49 Other cardiac arrhythmias,Penyakit Lainnya
+I50,I50 Heart failure,Katastropik
+I51,I51 Complications and ill-defined descriptions of heart disease,Katastropik
+I60,I60 Subarachnoid haemorrhage,Katastropik
+I61,I61 Intracerebral haemorrhage,Katastropik
+I62,I62 Other nontraumatic intracranial haemorrhage,Katastropik
+I63,I63 Cerebral infarction,Katastropik
+I64,"I64 Stroke, not specified as haemorrhage or infarction",Katastropik
+I65,"I65 Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Katastropik
+I66,"I66 Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",Katastropik
+I67,I67 Other cerebrovascular diseases,Katastropik
+I69,I69 Sequelae of cerebrovascular disease,Katastropik
+I70,I70 Atherosclerosis,Katastropik
+I71,I71 Aortic aneurysm and dissection,Katastropik
+I72,I72 Other aneurysm and dissection,Katastropik
+I73,I73 Other peripheral vascular diseases,Penyakit Lainnya
+I74,I74 Arterial embolism and thrombosis,Katastropik
+I77,I77 Other disorders of arteries and arterioles,Penyakit Lainnya
+I78,I78 Diseases of capillaries,Penyakit Lainnya
+I80,I80 Phlebitis and thrombophlebitis,Penyakit Lainnya
+I81,I81 Portal vein thrombosis,Penyakit Lainnya
+I82,I82 Other venous embolism and thrombosis,Penyakit Lainnya
+I83,I83 Varicose veins of lower extremities,Penyakit Lainnya
+I85,I85 Oesophageal varices,Penyakit Lainnya
+I86,I86 Varicose veins of other sites,Penyakit Lainnya
+I87,I87 Other disorders of veins,Penyakit Lainnya
+I88,I88 Nonspecific lymphadenitis,Penyakit Lainnya
+I89,I89 Other noninfective disorders of lymphatic vessels and lymph nodes,Penyakit Lainnya
+I95,I95 Hypotension,Penyakit Lainnya
+I97,"I97 Postprocedural disorders of circulatory system, not elsewhere classified",Penyakit Lainnya
+I98,I98 Other disorders of circulatory system in diseases classified elsewhere,Penyakit Lainnya
+I99,I99 Other and unspecified disorders of circulatory system,Penyakit Lainnya
+J00,J00 Acute nasopharyngitis [common cold],Penyakit Lainnya
+J01,J01 Acute sinusitis,Penyakit Lainnya
+J02,J02 Acute pharyngitis,Penyakit Lainnya
+J03,J03 Acute tonsillitis,Penyakit Lainnya
+J04,J04 Acute laryngitis and tracheitis,Penyakit Lainnya
+J05,J05 Acute obstructive laryngitis [croup] and epiglottitis,Penyakit Lainnya
+J06,J06 Acute upper respiratory infections of multiple and unspecified sites,Penyakit Lainnya
+J10,J10 Influenza due to other identified influenza virus,Penyakit Lainnya
+J11,"J11 Influenza, virus not identified",Penyakit Lainnya
+J12,"J12 Viral pneumonia, not elsewhere classified",Penyakit Lainnya
+J13,J13 Pneumonia due to Streptococcus pneumoniae,Penyakit Lainnya
+J14,J14 Pneumonia due to Haemophilus influenzae,Penyakit Lainnya
+J15,"J15 Bacterial pneumonia, not elsewhere classified",Penyakit Lainnya
+J16,"J16 Pneumonia due to other infectious organisms, not elsewhere classified",Penyakit Lainnya
+J18,"J18 Pneumonia, organism unspecified",Penyakit Lainnya
+J20,J20 Acute bronchitis,Penyakit Lainnya
+J21,J21 Acute bronchiolitis,Penyakit Lainnya
+J22,J22 Unspecified acute lower respiratory infection,Penyakit Lainnya
+J30,J30 Vasomotor and allergic rhinitis,Penyakit Lainnya
+J31,"J31 Chronic rhinitis, nasopharyngitis and pharyngitis",Penyakit Lainnya
+J32,J32 Chronic sinusitis,Penyakit Lainnya
+J33,J33 Nasal polyp,Penyakit Lainnya
+J34,J34 Other disorders of nose and nasal sinuses,Penyakit Lainnya
+J35,J35 Chronic diseases of tonsils and adenoids,Penyakit Lainnya
+J36,J36 Peritonsillar abscess,Penyakit Lainnya
+J37,J37 Chronic laryngitis and laryngotracheitis,Penyakit Lainnya
+J38,"J38 Diseases of vocal cords and larynx, not elsewhere classified",Penyakit Lainnya
+J39,J39 Other diseases of upper respiratory tract,Penyakit Lainnya
+J40,"J40 Bronchitis, not specified as acute or chronic",Penyakit Lainnya
+J41,J41 Simple and mucopurulent chronic bronchitis,Penyakit Lainnya
+J42,J42 Unspecified chronic bronchitis,Penyakit Lainnya
+J43,J43 Emphysema,Penyakit Lainnya
+J44,J44 Other chronic obstructive pulmonary disease,Penyakit Lainnya
+J45,J45 Asthma,Penyakit Lainnya
+J46,J46 Status asthmaticus,Penyakit Lainnya
+J47,J47 Bronchiectasis,Penyakit Lainnya
+J65,J65 Pneumoconiosis associated with tuberculosis,Penyakit Lainnya
+J68,"J68 Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours",Penyakit Lainnya
+J69,J69 Pneumonitis due to solids and liquids,Penyakit Lainnya
+J70,J70 Respiratory conditions due to other external agents,Penyakit Lainnya
+J80,J80 Adult respiratory distress syndrome,Penyakit Lainnya
+J81,J81 Pulmonary oedema,Penyakit Lainnya
+J84,J84 Other interstitial pulmonary diseases,Penyakit Lainnya
+J85,J85 Abscess of lung and mediastinum,Penyakit Lainnya
+J86,J86 Pyothorax,Penyakit Lainnya
+J90,"J90 Pleural effusion, not elsewhere classified",Penyakit Lainnya
+J91,J91 Pleural effusion in conditions classified elsewhere,Penyakit Lainnya
+J93,J93 Pneumothorax,Penyakit Lainnya
+J94,J94 Other pleural conditions,Penyakit Lainnya
+J95,"J95 Postprocedural respiratory disorders, not elsewhere classified",Penyakit Lainnya
+J96,"J96 Respiratory failure, not elsewhere classified",Penyakit Lainnya
+J98,J98 Other respiratory disorders,Penyakit Lainnya
+K00,K00 Disorders of tooth development and eruption,Penyakit Lainnya
+K01,K01 Embedded and impacted teeth,Penyakit Lainnya
+K02,K02 Dental caries,Penyakit Lainnya
+K03,K03 Other diseases of hard tissues of teeth,Penyakit Lainnya
+K04,K04 Diseases of pulp and periapical tissues,Penyakit Lainnya
+K05,K05 Gingivitis and periodontal diseases,Penyakit Lainnya
+K06,K06 Other disorders of gingiva and edentulous alveolar ridge,Penyakit Lainnya
+K07,K07 Dentofacial anomalies [including malocclusion],Penyakit Lainnya
+K08,K08 Other disorders of teeth and supporting structures,Penyakit Lainnya
+K09,"K09 Cysts of oral region, not elsewhere classified",Penyakit Lainnya
+K10,K10 Other diseases of jaws,Penyakit Lainnya
+K11,K11 Diseases of salivary glands,Penyakit Lainnya
+K12,K12 Stomatitis and related lesions,Penyakit Lainnya
+K13,K13 Other diseases of lip and oral mucosa,Penyakit Lainnya
+K14,K14 Diseases of tongue,Penyakit Lainnya
+K20,K20 Oesophagitis,Penyakit Lainnya
+K21,K21 Gastro-oesophageal reflux disease,Penyakit Lainnya
+K22,K22 Other diseases of oesophagus,Penyakit Lainnya
+K25,K25 Gastric ulcer,Penyakit Lainnya
+K26,K26 Duodenal ulcer,Penyakit Lainnya
+K27,"K27 Peptic ulcer, site unspecified",Penyakit Lainnya
+K28,K28 Gastrojejunal ulcer,Penyakit Lainnya
+K29,K29 Gastritis and duodenitis,Penyakit Lainnya
+K30,K30 Functional dyspepsia,Penyakit Lainnya
+K31,K31 Other diseases of stomach and duodenum,Penyakit Lainnya
+K35,K35 Acute appendicitis,Penyakit Lainnya
+K36,K36 Other appendicitis,Penyakit Lainnya
+K37,K37 Unspecified appendicitis,Penyakit Lainnya
+K38,K38 Other diseases of appendix,Penyakit Lainnya
+K40,K40 Inguinal hernia,Penyakit Lainnya
+K41,K41 Femoral hernia,Penyakit Lainnya
+K42,K42 Umbilical hernia,Penyakit Lainnya
+K43,K43 Ventral hernia,Penyakit Lainnya
+K44,K44 Diaphragmatic hernia,Penyakit Lainnya
+K45,K45 Other abdominal hernia,Penyakit Lainnya
+K46,K46 Unspecified abdominal hernia,Penyakit Lainnya
+K50,K50 Crohn disease [regional enteritis],Penyakit Lainnya
+K51,K51 Ulcerative colitis,Penyakit Lainnya
+K52,K52 Other noninfective gastroenteritis and colitis,Penyakit Lainnya
+K55,K55 Vascular disorders of intestine,Penyakit Lainnya
+K56,K56 Paralytic ileus and intestinal obstruction without hernia,Penyakit Lainnya
+K57,K57 Diverticular disease of intestine,Penyakit Lainnya
+K58,K58 Irritable bowel syndrome,Penyakit Lainnya
+K59,K59 Other functional intestinal disorders,Penyakit Lainnya
+K60,K60 Fissure and fistula of anal and rectal regions,Penyakit Lainnya
+K61,K61 Abscess of anal and rectal regions,Penyakit Lainnya
+K62,K62 Other diseases of anus and rectum,Penyakit Lainnya
+K63,K63 Other diseases of intestine,Penyakit Lainnya
+K65,K65 Peritonitis,Penyakit Lainnya
+K66,K66 Other disorders of peritoneum,Penyakit Lainnya
+K70,K70 Alcoholic liver disease,Penyakit Lainnya
+K71,K71 Toxic liver disease,Penyakit Lainnya
+K72,"K72 Hepatic failure, not elsewhere classified",Penyakit Lainnya
+K73,"K73 Chronic hepatitis, not elsewhere classified",Penyakit Lainnya
+K74,K74 Fibrosis and cirrhosis of liver,Katastropik
+K75,K75 Other inflammatory liver diseases,Penyakit Lainnya
+K76,K76 Other diseases of liver,Penyakit Lainnya
+K80,K80 Cholelithiasis,Penyakit Lainnya
+K81,K81 Cholecystitis,Penyakit Lainnya
+K82,K82 Other diseases of gallbladder,Penyakit Lainnya
+K83,K83 Other diseases of biliary tract,Penyakit Lainnya
+K85,K85 Acute pancreatitis,Penyakit Lainnya
+K86,K86 Other diseases of pancreas,Penyakit Lainnya
+K90,K90 Intestinal malabsorption,Penyakit Lainnya
+K91,"K91 Postprocedural disorders of digestive system, not elsewhere classified",Penyakit Lainnya
+K92,K92 Other diseases of digestive system,Penyakit Lainnya
+K93,K93 Disorders of other digestive organs in diseases classified elsewhere,Penyakit Lainnya
+L00,L00 Staphylococcal scalded skin syndrome,Penyakit Lainnya
+L01,L01 Impetigo,Penyakit Lainnya
+L02,"L02 Cutaneous abscess, furuncle and carbuncle",Penyakit Lainnya
+L03,L03 Cellulitis,Penyakit Lainnya
+L04,L04 Acute lymphadenitis,Penyakit Lainnya
+L05,L05 Pilonidal cyst,Penyakit Lainnya
+L08,L08 Other local infections of skin and subcutaneous tissue,Penyakit Lainnya
+L10,L10 Pemphigus,Penyakit Lainnya
+L11,L11 Other acantholytic disorders,Penyakit Lainnya
+L12,L12 Pemphigoid,Penyakit Lainnya
+L13,L13 Other bullous disorders,Penyakit Lainnya
+L20,L20 Atopic dermatitis,Penyakit Lainnya
+L21,L21 Seborrhoeic dermatitis,Penyakit Lainnya
+L22,L22 Diaper [napkin] dermatitis,Penyakit Lainnya
+L23,L23 Allergic contact dermatitis,Penyakit Lainnya
+L24,L24 Irritant contact dermatitis,Penyakit Lainnya
+L25,L25 Unspecified contact dermatitis,Penyakit Lainnya
+L26,L26 Exfoliative dermatitis,Penyakit Lainnya
+L27,L27 Dermatitis due to substances taken internally,Penyakit Lainnya
+L28,L28 Lichen simplex chronicus and prurigo,Penyakit Lainnya
+L29,L29 Pruritus,Penyakit Lainnya
+L30,L30 Other dermatitis,Penyakit Lainnya
+L40,L40 Psoriasis,Penyakit Lainnya
+L41,L41 Parapsoriasis,Penyakit Lainnya
+L42,L42 Pityriasis rosea,Penyakit Lainnya
+L43,L43 Lichen planus,Penyakit Lainnya
+L44,L44 Other papulosquamous disorders,Penyakit Lainnya
+L50,L50 Urticaria,Penyakit Lainnya
+L51,L51 Erythema multiforme,Penyakit Lainnya
+L52,L52 Erythema nodosum,Penyakit Lainnya
+L53,L53 Other erythematous conditions,Penyakit Lainnya
+L56,L56 Other acute skin changes due to ultraviolet radiation,Penyakit Lainnya
+L57,L57 Skin changes due to chronic exposure to nonionizing radiation,Penyakit Lainnya
+L58,L58 Radiodermatitis,Penyakit Lainnya
+L60,L60 Nail disorders,Penyakit Lainnya
+L63,L63 Alopecia areata,Penyakit Lainnya
+L64,L64 Androgenic alopecia,Penyakit Lainnya
+L65,L65 Other nonscarring hair loss,Penyakit Lainnya
+L66,L66 Cicatricial alopecia [scarring hair loss],Penyakit Lainnya
+L70,L70 Acne,Penyakit Lainnya
+L72,L72 Follicular cysts of skin and subcutaneous tissue,Penyakit Lainnya
+L73,L73 Other follicular disorders,Penyakit Lainnya
+L74,L74 Eccrine sweat disorders,Penyakit Lainnya
+L80,L80 Vitiligo,Penyakit Lainnya
+L81,L81 Other disorders of pigmentation,Penyakit Lainnya
+L82,L82 Seborrhoeic keratosis,Penyakit Lainnya
+L84,L84 Corns and callosities,Penyakit Lainnya
+L85,L85 Other epidermal thickening,Penyakit Lainnya
+L88,L88 Pyoderma gangrenosum,Penyakit Lainnya
+L89,L89 Decubitus ulcer and pressure area,Penyakit Lainnya
+L90,L90 Atrophic disorders of skin,Penyakit Lainnya
+L91,L91 Hypertrophic disorders of skin,Penyakit Lainnya
+L92,L92 Granulomatous disorders of skin and subcutaneous tissue,Penyakit Lainnya
+L93,L93 Lupus erythematosus,Penyakit Lainnya
+L94,L94 Other localized connective tissue disorders,Penyakit Lainnya
+L95,"L95 Vasculitis limited to skin, not elsewhere classified",Penyakit Lainnya
+L97,"L97 Ulcer of lower limb, not elsewhere classified",Penyakit Lainnya
+L98,"L98 Other disorders of skin and subcutaneous tissue, not elsewhere classified",Penyakit Lainnya
+M00,M00 Pyogenic arthritis,Penyakit Lainnya
+M02,M02 Reactive arthropathies,Penyakit Lainnya
+M05,M05 Seropositive rheumatoid arthritis,Penyakit Lainnya
+M06,M06 Other rheumatoid arthritis,Penyakit Lainnya
+M08,M08 Juvenile arthritis,Penyakit Lainnya
+M10,M10 Gout,Penyakit Lainnya
+M11,M11 Other crystal arthropathies,Penyakit Lainnya
+M12,M12 Other specific arthropathies,Penyakit Lainnya
+M13,M13 Other arthritis,Penyakit Lainnya
+M14,M14 Arthropathies in other diseases classified elsewhere,Penyakit Lainnya
+M15,M15 Polyarthrosis,Penyakit Lainnya
+M16,M16 Coxarthrosis [arthrosis of hip],Penyakit Lainnya
+M17,M17 Gonarthrosis [arthrosis of knee],Penyakit Lainnya
+M18,M18 Arthrosis of first carpometacarpal joint,Penyakit Lainnya
+M19,M19 Other arthrosis,Penyakit Lainnya
+M20,M20 Acquired deformities of fingers and toes,Penyakit Lainnya
+M21,M21 Other acquired deformities of limbs,Penyakit Lainnya
+M22,M22 Disorders of patella,Penyakit Lainnya
+M23,M23 Internal derangement of knee,Penyakit Lainnya
+M24,M24 Other specific joint derangements,Penyakit Lainnya
+M25,"M25 Other joint disorders, not elsewhere classified",Penyakit Lainnya
+M30,M30 Polyarteritis nodosa and related conditions,Penyakit Lainnya
+M31,M31 Other necrotizing vasculopathies,Penyakit Lainnya
+M32,M32 Systemic lupus erythematosus,Penyakit Lainnya
+M34,M34 Systemic sclerosis,Penyakit Lainnya
+M35,M35 Other systemic involvement of connective tissue,Penyakit Lainnya
+M40,M40 Kyphosis and lordosis,Penyakit Lainnya
+M41,M41 Scoliosis,Penyakit Lainnya
+M42,M42 Spinal osteochondrosis,Penyakit Lainnya
+M43,M43 Other deforming dorsopathies,Penyakit Lainnya
+M45,M45 Ankylosing spondylitis,Penyakit Lainnya
+M46,M46 Other inflammatory spondylopathies,Penyakit Lainnya
+M47,M47 Spondylosis,Penyakit Lainnya
+M48,M48 Other spondylopathies,Penyakit Lainnya
+M50,M50 Cervical disc disorders,Penyakit Lainnya
+M51,M51 Other intervertebral disc disorders,Penyakit Lainnya
+M53,"M53 Other dorsopathies, not elsewhere classified",Penyakit Lainnya
+M54,M54 Dorsalgia,Penyakit Lainnya
+M60,M60 Myositis,Penyakit Lainnya
+M61,M61 Calcification and ossification of muscle,Penyakit Lainnya
+M62,M62 Other disorders of muscle,Penyakit Lainnya
+M65,M65 Synovitis and tenosynovitis,Penyakit Lainnya
+M66,M66 Spontaneous rupture of synovium and tendon,Penyakit Lainnya
+M67,M67 Other disorders of synovium and tendon,Penyakit Lainnya
+M70,"M70 Soft tissue disorders related to use, overuse and pressure",Penyakit Lainnya
+M71,M71 Other bursopathies,Penyakit Lainnya
+M72,M72 Fibroblastic disorders,Penyakit Lainnya
+M75,M75 Shoulder lesions,Penyakit Lainnya
+M76,"M76 Enthesopathies of lower limb, excluding foot",Penyakit Lainnya
+M77,M77 Other enthesopathies,Penyakit Lainnya
+M79,"M79 Other soft tissue disorders, not elsewhere classified",Penyakit Lainnya
+M80,M80 Osteoporosis with pathological fracture,Penyakit Lainnya
+M81,M81 Osteoporosis without pathological fracture,Penyakit Lainnya
+M83,M83 Adult osteomalacia,Penyakit Lainnya
+M84,M84 Disorders of continuity of bone,Penyakit Lainnya
+M85,M85 Other disorders of bone density and structure,Penyakit Lainnya
+M86,M86 Osteomyelitis,Penyakit Lainnya
+M87,M87 Osteonecrosis,Penyakit Lainnya
+M88,M88 Paget disease of bone [osteitis deformans],Penyakit Lainnya
+M89,M89 Other disorders of bone,Penyakit Lainnya
+M92,M92 Other juvenile osteochondrosis,Penyakit Lainnya
+M93,M93 Other osteochondropathies,Penyakit Lainnya
+M94,M94 Other disorders of cartilage,Penyakit Lainnya
+M95,M95 Other acquired deformities of musculoskeletal system and connective tissue,Penyakit Lainnya
+M96,"M96 Postprocedural musculoskeletal disorders, not elsewhere classified",Penyakit Lainnya
+M99,"M99 Biomechanical lesions, not elsewhere classified",Penyakit Lainnya
+N00,N00 Acute nephritic syndrome,Penyakit Lainnya
+N01,N01 Rapidly progressive nephritic syndrome,Penyakit Lainnya
+N02,N02 Recurrent and persistent haematuria,Penyakit Lainnya
+N03,N03 Chronic nephritic syndrome,Penyakit Lainnya
+N04,N04 Nephrotic syndrome,Penyakit Lainnya
+N05,N05 Unspecified nephritic syndrome,Penyakit Lainnya
+N06,N06 Isolated proteinuria with specified morphological lesion,Penyakit Lainnya
+N10,N10 Acute tubulo-interstitial nephritis,Penyakit Lainnya
+N11,N11 Chronic tubulo-interstitial nephritis,Penyakit Lainnya
+N12,"N12 Tubulo-interstitial nephritis, not specified as acute or chronic",Penyakit Lainnya
+N13,N13 Obstructive and reflux uropathy,Penyakit Lainnya
+N14,N14 Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,Penyakit Lainnya
+N15,N15 Other renal tubulo-interstitial diseases,Penyakit Lainnya
+N17,N17 Acute renal failure,Katastropik
+N18,N18 Chronic kidney disease,Katastropik
+N19,N19 Unspecified kidney failure,Katastropik
+N20,N20 Calculus of kidney and ureter,Penyakit Lainnya
+N21,N21 Calculus of lower urinary tract,Penyakit Lainnya
+N23,N23 Unspecified renal colic,Penyakit Lainnya
+N25,N25 Disorders resulting from impaired renal tubular function,Penyakit Lainnya
+N26,N26 Unspecified contracted kidney,Penyakit Lainnya
+N27,N27 Small kidney of unknown cause,Penyakit Lainnya
+N28,"N28 Other disorders of kidney and ureter, not elsewhere classified",Penyakit Lainnya
+N30,N30 Cystitis,Penyakit Lainnya
+N31,"N31 Neuromuscular dysfunction of bladder, not elsewhere classified",Penyakit Lainnya
+N32,N32 Other disorders of bladder,Penyakit Lainnya
+N34,N34 Urethritis and urethral syndrome,Penyakit Lainnya
+N35,N35 Urethral stricture,Penyakit Lainnya
+N36,N36 Other disorders of urethra,Penyakit Lainnya
+N39,N39 Other disorders of urinary system,Penyakit Lainnya
+N40,N40 Hyperplasia of prostate,Penyakit Lainnya
+N41,N41 Inflammatory diseases of prostate,Penyakit Lainnya
+N42,N42 Other disorders of prostate,Penyakit Lainnya
+N43,N43 Hydrocele and spermatocele,Penyakit Lainnya
+N44,N44 Torsion of testis,Penyakit Lainnya
+N45,N45 Orchitis and epididymitis,Penyakit Lainnya
+N46,N46 Male infertility,Penyakit Lainnya
+N47,"N47 Redundant prepuce, phimosis and paraphimosis",Penyakit Lainnya
+N48,N48 Other disorders of penis,Penyakit Lainnya
+N49,"N49 Inflammatory disorders of male genital organs, not elsewhere classified",Penyakit Lainnya
+N50,N50 Other disorders of male genital organs,Penyakit Lainnya
+N60,N60 Benign mammary dysplasia,Penyakit Lainnya
+N61,N61 Inflammatory disorders of breast,Penyakit Lainnya
+N62,N62 Hypertrophy of breast,Penyakit Lainnya
+N63,N63 Unspecified lump in breast,Penyakit Lainnya
+N64,N64 Other disorders of breast,Penyakit Lainnya
+N70,N70 Salpingitis and oophoritis,Penyakit Lainnya
+N71,"N71 Inflammatory disease of uterus, except cervix",Penyakit Lainnya
+N72,N72 Inflammatory disease of cervix uteri,Penyakit Lainnya
+N73,N73 Other female pelvic inflammatory diseases,Penyakit Lainnya
+N75,N75 Diseases of Bartholin gland,Penyakit Lainnya
+N76,N76 Other inflammation of vagina and vulva,Penyakit Lainnya
+N80,N80 Endometriosis,Penyakit Lainnya
+N81,N81 Female genital prolapse,Penyakit Lainnya
+N82,N82 Fistulae involving female genital tract,Penyakit Lainnya
+N83,"N83 Noninflammatory disorders of ovary, fallopian tube and broad ligament",Penyakit Lainnya
+N84,N84 Polyp of female genital tract,Penyakit Lainnya
+N85,"N85 Other noninflammatory disorders of uterus, except cervix",Penyakit Lainnya
+N86,N86 Erosion and ectropion of cervix uteri,Penyakit Lainnya
+N87,N87 Dysplasia of cervix uteri,Penyakit Lainnya
+N88,N88 Other noninflammatory disorders of cervix uteri,Penyakit Lainnya
+N89,N89 Other noninflammatory disorders of vagina,Penyakit Lainnya
+N90,N90 Other noninflammatory disorders of vulva and perineum,Penyakit Lainnya
+N91,"N91 Absent, scanty and rare menstruation",Penyakit Lainnya
+N92,"N92 Excessive, frequent and irregular menstruation",Penyakit Lainnya
+N93,N93 Other abnormal uterine and vaginal bleeding,Penyakit Lainnya
+N94,N94 Pain and other conditions associated with female genital organs and menstrual cycle,Penyakit Lainnya
+N95,N95 Menopausal and other perimenopausal disorders,Penyakit Lainnya
+N96,N96 Habitual aborter,Penyakit Lainnya
+N97,N97 Female infertility,Penyakit Lainnya
+N98,N98 Complications associated with artificial fertilization,Penyakit Lainnya
+N99,"N99 Postprocedural disorders of genitourinary system, not elsewhere classified",Penyakit Lainnya
+O00,O00 Ectopic pregnancy,Penyakit Lainnya
+O01,O01 Hydatidiform mole,Penyakit Lainnya
+O02,O02 Other abnormal products of conception,Penyakit Lainnya
+O03,O03 Spontaneous abortion,Penyakit Lainnya
+O04,O04 Medical abortion,Penyakit Lainnya
+O05,O05 Other abortion,Penyakit Lainnya
+O06,O06 Unspecified abortion,Penyakit Lainnya
+O07,O07 Failed attempted abortion,Penyakit Lainnya
+O08,O08 Complications following abortion and ectopic and molar pregnancy,Penyakit Lainnya
+O10,"O10 Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",Penyakit Lainnya
+O11,O11 Pre-eclampsia superimposed on chronic hypertension,Penyakit Lainnya
+O12,O12 Gestational [pregnancy-induced] oedema and proteinuria without hypertension,Penyakit Lainnya
+O13,O13 Gestational [pregnancy-induced] hypertension,Penyakit Lainnya
+O14,O14 Pre-eclampsia,Penyakit Lainnya
+O15,O15 Eclampsia,Penyakit Lainnya
+O16,O16 Unspecified maternal hypertension,Penyakit Lainnya
+O20,O20 Haemorrhage in early pregnancy,Penyakit Lainnya
+O21,O21 Excessive vomiting in pregnancy,Penyakit Lainnya
+O22,O22 Venous complications and haemorrhoids in pregnancy,Penyakit Lainnya
+O23,O23 Infections of genitourinary tract in pregnancy,Penyakit Lainnya
+O24,O24 Diabetes mellitus in pregnancy,Penyakit Lainnya
+O25,O25 Malnutrition in pregnancy,Penyakit Lainnya
+O26,O26 Maternal care for other conditions predominantly related to pregnancy,Penyakit Lainnya
+O28,O28 Abnormal findings on antenatal screening of mother,Penyakit Lainnya
+O29,O29 Complications of anaesthesia during pregnancy,Penyakit Lainnya
+O30,O30 Multiple gestation,Penyakit Lainnya
+O31,O31 Complications specific to multiple gestation,Penyakit Lainnya
+O32,O32 Maternal care for known or suspected malpresentation of fetus,Penyakit Lainnya
+O33,O33 Maternal care for known or suspected disproportion,Penyakit Lainnya
+O34,O34 Maternal care for known or suspected abnormality of pelvic organs,Penyakit Lainnya
+O35,O35 Maternal care for known or suspected fetal abnormality and damage,Penyakit Lainnya
+O36,O36 Maternal care for other known or suspected fetal problems,Penyakit Lainnya
+O40,O40 Polyhydramnios,Penyakit Lainnya
+O41,O41 Other disorders of amniotic fluid and membranes,Penyakit Lainnya
+O42,O42 Premature rupture of membranes,Penyakit Lainnya
+O43,O43 Placental disorders,Penyakit Lainnya
+O44,O44 Placenta praevia,Penyakit Lainnya
+O45,O45 Premature separation of placenta [abruptio placentae],Penyakit Lainnya
+O46,"O46 Antepartum haemorrhage, not elsewhere classified",Penyakit Lainnya
+O47,O47 False labour,Penyakit Lainnya
+O48,O48 Prolonged pregnancy,Penyakit Lainnya
+O60,O60 Preterm labour and delivery,Persalinan
+O61,O61 Failed induction of labour,Persalinan
+O62,O62 Abnormalities of forces of labour,Persalinan
+O63,O63 Long labour,Persalinan
+O64,O64 Obstructed labour due to malposition and malpresentation of fetus,Persalinan
+O65,O65 Obstructed labour due to maternal pelvic abnormality,Persalinan
+O66,O66 Other obstructed labour,Persalinan
+O67,"O67 Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified",Persalinan
+O68,O68 Labour and delivery complicated by fetal stress [distress],Persalinan
+O69,O69 Labour and delivery complicated by umbilical cord complications,Persalinan
+O70,O70 Perineal laceration during delivery,Persalinan
+O71,O71 Other obstetric trauma,Persalinan
+O72,O72 Postpartum haemorrhage,Persalinan
+O73,"O73 Retained placenta and membranes, without haemorrhage",Persalinan
+O75,"O75 Other complications of labour and delivery, not elsewhere classified",Persalinan
+O80,O80 Single spontaneous delivery,Persalinan
+O81,O81 Single delivery by forceps and vacuum extractor,Persalinan
+O82,O82 Single delivery by caesarean section,Persalinan
+O83,O83 Other assisted single delivery,Persalinan
+O84,O84 Multiple delivery,Persalinan
+O85,O85 Puerperal sepsis,Penyakit Lainnya
+O86,O86 Other puerperal infections,Penyakit Lainnya
+O87,O87 Venous complications and haemorrhoids in the puerperium,Penyakit Lainnya
+O88,O88 Obstetric embolism,Penyakit Lainnya
+O90,"O90 Complications of the puerperium, not elsewhere classified",Penyakit Lainnya
+O91,O91 Infections of breast associated with childbirth,Penyakit Lainnya
+O92,O92 Other disorders of breast and lactation associated with childbirth,Penyakit Lainnya
+O95,O95 Obstetric death of unspecified cause,Penyakit Lainnya
+O96,O96 Death from any obstetric cause occurring more than 42 days but less than one year after delivery,Penyakit Lainnya
+O98,"O98 Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",Penyakit Lainnya
+O99,"O99 Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",Penyakit Lainnya
+P00,P00 Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy,Penyakit Lainnya
+P01,P01 Fetus and newborn affected by maternal complications of pregnancy,Penyakit Lainnya
+P02,"P02 Fetus and newborn affected by complications of placenta, cord and membranes",Penyakit Lainnya
+P03,P03 Fetus and newborn affected by other complications of labour and delivery,Penyakit Lainnya
+P04,P04 Fetus and newborn affected by noxious influences transmitted via placenta or breast milk,Penyakit Lainnya
+P05,P05 Slow fetal growth and fetal malnutrition,Penyakit Lainnya
+P07,"P07 Disorders related to short gestation and low birth weight, not elsewhere classified",Penyakit Lainnya
+P08,P08 Disorders related to long gestation and high birth weight,Penyakit Lainnya
+P10,P10 Intracranial laceration and haemorrhage due to birth injury,Penyakit Lainnya
+P11,P11 Other birth injuries to central nervous system,Penyakit Lainnya
+P12,P12 Birth injury to scalp,Penyakit Lainnya
+P13,P13 Birth injury to skeleton,Penyakit Lainnya
+P14,P14 Birth injury to peripheral nervous system,Penyakit Lainnya
+P15,P15 Other birth injuries,Penyakit Lainnya
+P20,P20 Intrauterine hypoxia,Penyakit Lainnya
+P21,P21 Birth asphyxia,Penyakit Lainnya
+P22,P22 Respiratory distress of newborn,Penyakit Lainnya
+P23,P23 Congenital pneumonia,Penyakit Lainnya
+P24,P24 Neonatal aspiration syndromes,Penyakit Lainnya
+P28,P28 Other respiratory conditions originating in the perinatal period,Penyakit Lainnya
+P29,P29 Cardiovascular disorders originating in the perinatal period,Penyakit Lainnya
+P35,P35 Congenital viral diseases,Penyakit Lainnya
+P36,P36 Bacterial sepsis of newborn,Penyakit Lainnya
+P37,P37 Other congenital infectious and parasitic diseases,Penyakit Lainnya
+P38,P38 Omphalitis of newborn with or without mild haemorrhage,Penyakit Lainnya
+P39,P39 Other infections specific to the perinatal period,Penyakit Lainnya
+P50,P50 Fetal blood loss,Penyakit Lainnya
+P51,P51 Umbilical haemorrhage of newborn,Penyakit Lainnya
+P52,P52 Intracranial nontraumatic haemorrhage of fetus and newborn,Penyakit Lainnya
+P54,P54 Other neonatal haemorrhages,Penyakit Lainnya
+P55,P55 Haemolytic disease of fetus and newborn,Penyakit Lainnya
+P57,P57 Kernicterus,Penyakit Lainnya
+P58,P58 Neonatal jaundice due to other excessive haemolysis,Penyakit Lainnya
+P59,P59 Neonatal jaundice from other and unspecified causes,Penyakit Lainnya
+P61,P61 Other perinatal haematological disorders,Penyakit Lainnya
+P70,P70 Transitory disorders of carbohydrate metabolism specific to fetus and newborn,Penyakit Lainnya
+P71,P71 Transitory neonatal disorders of calcium and magnesium metabolism,Penyakit Lainnya
+P72,P72 Other transitory neonatal endocrine disorders,Penyakit Lainnya
+P74,P74 Other transitory neonatal electrolyte and metabolic disturbances,Penyakit Lainnya
+P76,P76 Other intestinal obstruction of newborn,Penyakit Lainnya
+P78,P78 Other perinatal digestive system disorders,Penyakit Lainnya
+P80,P80 Hypothermia of newborn,Penyakit Lainnya
+P81,P81 Other disturbances of temperature regulation of newborn,Penyakit Lainnya
+P83,P83 Other conditions of integument specific to fetus and newborn,Penyakit Lainnya
+P90,P90 Convulsions of newborn,Penyakit Lainnya
+P92,P92 Feeding problems of newborn,Penyakit Lainnya
+P94,P94 Disorders of muscle tone of newborn,Penyakit Lainnya
+P95,P95 Fetal death of unspecified cause,Penyakit Lainnya
+P96,P96 Other conditions originating in the perinatal period,Penyakit Lainnya
+Q00,Q00 Anencephaly and similar malformations,Penyakit Lainnya
+Q01,Q01 Encephalocele,Penyakit Lainnya
+Q02,Q02 Microcephaly,Penyakit Lainnya
+Q03,Q03 Congenital hydrocephalus,Penyakit Lainnya
+Q04,Q04 Other congenital malformations of brain,Penyakit Lainnya
+Q05,Q05 Spina bifida,Penyakit Lainnya
+Q06,Q06 Other congenital malformations of spinal cord,Penyakit Lainnya
+Q10,"Q10 Congenital malformations of eyelid, lacrimal apparatus and orbit",Penyakit Lainnya
+Q11,"Q11 Anophthalmos, microphthalmos and macrophthalmos",Penyakit Lainnya
+Q12,Q12 Congenital lens malformations,Penyakit Lainnya
+Q13,Q13 Congenital malformations of anterior segment of eye,Penyakit Lainnya
+Q15,Q15 Other congenital malformations of eye,Penyakit Lainnya
+Q16,Q16 Congenital malformations of ear causing impairment of hearing,Penyakit Lainnya
+Q17,Q17 Other congenital malformations of ear,Penyakit Lainnya
+Q18,Q18 Other congenital malformations of face and neck,Penyakit Lainnya
+Q20,Q20 Congenital malformations of cardiac chambers and connections,Penyakit Lainnya
+Q21,Q21 Congenital malformations of cardiac septa,Penyakit Lainnya
+Q22,Q22 Congenital malformations of pulmonary and tricuspid valves,Penyakit Lainnya
+Q23,Q23 Congenital malformations of aortic and mitral valves,Penyakit Lainnya
+Q24,Q24 Other congenital malformations of heart,Penyakit Lainnya
+Q25,Q25 Congenital malformations of great arteries,Penyakit Lainnya
+Q26,Q26 Congenital malformations of great veins,Penyakit Lainnya
+Q27,Q27 Other congenital malformations of peripheral vascular system,Penyakit Lainnya
+Q28,Q28 Other congenital malformations of circulatory system,Penyakit Lainnya
+Q30,Q30 Congenital malformations of nose,Penyakit Lainnya
+Q31,Q31 Congenital malformations of larynx,Penyakit Lainnya
+Q33,Q33 Congenital malformations of lung,Penyakit Lainnya
+Q35,Q35 Cleft palate,Penyakit Lainnya
+Q36,Q36 Cleft lip,Penyakit Lainnya
+Q37,Q37 Cleft palate with cleft lip,Penyakit Lainnya
+Q38,"Q38 Other congenital malformations of tongue, mouth and pharynx",Penyakit Lainnya
+Q40,Q40 Other congenital malformations of upper alimentary tract,Penyakit Lainnya
+Q41,"Q41 Congenital absence, atresia and stenosis of small intestine",Penyakit Lainnya
+Q42,"Q42 Congenital absence, atresia and stenosis of large intestine",Penyakit Lainnya
+Q43,Q43 Other congenital malformations of intestine,Penyakit Lainnya
+Q44,"Q44 Congenital malformations of gallbladder, bile ducts and liver",Penyakit Lainnya
+Q45,Q45 Other congenital malformations of digestive system,Penyakit Lainnya
+Q50,"Q50 Congenital malformations of ovaries, fallopian tubes and broad ligaments",Penyakit Lainnya
+Q51,Q51 Congenital malformations of uterus and cervix,Penyakit Lainnya
+Q52,Q52 Other congenital malformations of female genitalia,Penyakit Lainnya
+Q53,Q53 Undescended testicle,Penyakit Lainnya
+Q54,Q54 Hypospadias,Penyakit Lainnya
+Q55,Q55 Other congenital malformations of male genital organs,Penyakit Lainnya
+Q56,Q56 Indeterminate sex and pseudohermaphroditism,Penyakit Lainnya
+Q61,Q61 Cystic kidney disease,Penyakit Lainnya
+Q62,Q62 Congenital obstructive defects of renal pelvis and congenital malformations of ureter,Penyakit Lainnya
+Q63,Q63 Other congenital malformations of kidney,Penyakit Lainnya
+Q64,Q64 Other congenital malformations of urinary system,Penyakit Lainnya
+Q65,Q65 Congenital deformities of hip,Penyakit Lainnya
+Q66,Q66 Congenital deformities of feet,Penyakit Lainnya
+Q67,"Q67 Congenital musculoskeletal deformities of head, face, spine and chest",Penyakit Lainnya
+Q68,Q68 Other congenital musculoskeletal deformities,Penyakit Lainnya
+Q69,Q69 Polydactyly,Penyakit Lainnya
+Q70,Q70 Syndactyly,Penyakit Lainnya
+Q72,Q72 Reduction defects of lower limb,Penyakit Lainnya
+Q74,Q74 Other congenital malformations of limb(s),Penyakit Lainnya
+Q75,Q75 Other congenital malformations of skull and face bones,Penyakit Lainnya
+Q76,Q76 Congenital malformations of spine and bony thorax,Penyakit Lainnya
+Q78,Q78 Other osteochondrodysplasias,Penyakit Lainnya
+Q79,"Q79 Congenital malformations of the musculoskeletal system, not elsewhere classified",Penyakit Lainnya
+Q80,Q80 Congenital ichthyosis,Penyakit Lainnya
+Q81,Q81 Epidermolysis bullosa,Penyakit Lainnya
+Q82,Q82 Other congenital malformations of skin,Penyakit Lainnya
+Q83,Q83 Congenital malformations of breast,Penyakit Lainnya
+Q85,"Q85 Phakomatoses, not elsewhere classified",Penyakit Lainnya
+Q86,"Q86 Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",Penyakit Lainnya
+Q87,Q87 Other specified congenital malformation syndromes affecting multiple systems,Penyakit Lainnya
+Q89,"Q89 Other congenital malformations, not elsewhere classified",Penyakit Lainnya
+Q90,Q90 Down syndrome,Penyakit Lainnya
+Q91,Q91 Edwards syndrome and Patau syndrome,Penyakit Lainnya
+Q96,Q96 Turner syndrome,Penyakit Lainnya
+R00,R00 Abnormalities of heart beat,Penyakit Lainnya
+R01,R01 Cardiac murmurs and other cardiac sounds,Penyakit Lainnya
+R02,"R02 Gangrene, not elsewhere classified",Penyakit Lainnya
+R03,"R03 Abnormal blood-pressure reading, without diagnosis",Penyakit Lainnya
+R04,R04 Haemorrhage from respiratory passages,Penyakit Lainnya
+R05,R05 Cough,Penyakit Lainnya
+R06,R06 Abnormalities of breathing,Penyakit Lainnya
+R07,R07 Pain in throat and chest,Penyakit Lainnya
+R09,R09 Other symptoms and signs involving the circulatory and respiratory systems,Penyakit Lainnya
+R10,R10 Abdominal and pelvic pain,Penyakit Lainnya
+R11,R11 Nausea and vomiting,Penyakit Lainnya
+R12,R12 Heartburn,Penyakit Lainnya
+R13,R13 Dysphagia,Penyakit Lainnya
+R14,R14 Flatulence and related conditions,Penyakit Lainnya
+R15,R15 Faecal incontinence,Penyakit Lainnya
+R16,"R16 Hepatomegaly and splenomegaly, not elsewhere classified",Penyakit Lainnya
+R17,R17 Unspecified jaundice,Penyakit Lainnya
+R18,R18 Ascites,Penyakit Lainnya
+R19,R19 Other symptoms and signs involving the digestive system and abdomen,Penyakit Lainnya
+R20,R20 Disturbances of skin sensation,Penyakit Lainnya
+R21,R21 Rash and other nonspecific skin eruption,Penyakit Lainnya
+R22,"R22 Localized swelling, mass and lump of skin and subcutaneous tissue",Penyakit Lainnya
+R23,R23 Other skin changes,Penyakit Lainnya
+R25,R25 Abnormal involuntary movements,Penyakit Lainnya
+R26,R26 Abnormalities of gait and mobility,Penyakit Lainnya
+R27,R27 Other lack of coordination,Penyakit Lainnya
+R29,R29 Other symptoms and signs involving the nervous and musculoskeletal systems,Penyakit Lainnya
+R30,R30 Pain associated with micturition,Penyakit Lainnya
+R31,R31 Unspecified haematuria,Penyakit Lainnya
+R32,R32 Unspecified urinary incontinence,Penyakit Lainnya
+R33,R33 Retention of urine,Penyakit Lainnya
+R34,R34 Anuria and oliguria,Penyakit Lainnya
+R35,R35 Polyuria,Penyakit Lainnya
+R39,R39 Other symptoms and signs involving the urinary system,Penyakit Lainnya
+R40,"R40 Somnolence, stupor and coma",Penyakit Lainnya
+R41,R41 Other symptoms and signs involving cognitive functions and awareness,Penyakit Lainnya
+R42,R42 Dizziness and giddiness,Penyakit Lainnya
+R43,R43 Disturbances of smell and taste,Penyakit Lainnya
+R46,R46 Symptoms and signs involving appearance and behaviour,Penyakit Lainnya
+R47,"R47 Speech disturbances, not elsewhere classified",Penyakit Lainnya
+R48,"R48 Dyslexia and other symbolic dysfunctions, not elsewhere classified",Penyakit Lainnya
+R49,R49 Voice disturbances,Penyakit Lainnya
+R50,R50 Fever of other and unknown origin,Penyakit Lainnya
+R51,R51 Headache,Penyakit Lainnya
+R52,"R52 Pain, not elsewhere classified",Penyakit Lainnya
+R53,R53 Malaise and fatigue,Penyakit Lainnya
+R54,R54 Senility,Penyakit Lainnya
+R55,R55 Syncope and collapse,Penyakit Lainnya
+R56,"R56 Convulsions, not elsewhere classified",Penyakit Lainnya
+R57,"R57 Shock, not elsewhere classified",Penyakit Lainnya
+R58,"R58 Haemorrhage, not elsewhere classified",Penyakit Lainnya
+R59,R59 Enlarged lymph nodes,Penyakit Lainnya
+R60,"R60 Oedema, not elsewhere classified",Penyakit Lainnya
+R61,R61 Hyperhidrosis,Penyakit Lainnya
+R62,R62 Lack of expected normal physiological development,Penyakit Lainnya
+R63,R63 Symptoms and signs concerning food and fluid intake,Penyakit Lainnya
+R64,R64 Cachexia,Penyakit Lainnya
+R68,R68 Other general symptoms and signs,Penyakit Lainnya
+R69,R69 Unknown and unspecified causes of morbidity,Penyakit Lainnya
+R72,"R72 Abnormality of white blood cells, not elsewhere classified",Penyakit Lainnya
+R73,R73 Elevated blood glucose level,Penyakit Lainnya
+R74,R74 Abnormal serum enzyme levels,Penyakit Lainnya
+R75,R75 Laboratory evidence of human immunodeficiency virus [HIV],Penyakit Lainnya
+R77,R77 Other abnormalities of plasma proteins,Penyakit Lainnya
+R79,R79 Other abnormal findings of blood chemistry,Penyakit Lainnya
+R82,R82 Other abnormal findings in urine,Penyakit Lainnya
+R90,R90 Abnormal findings on diagnostic imaging of central nervous system,Penyakit Lainnya
+R91,R91 Abnormal findings on diagnostic imaging of lung,Penyakit Lainnya
+R93,R93 Abnormal findings on diagnostic imaging of other body structures,Penyakit Lainnya
+R94,R94 Abnormal results of function studies,Penyakit Lainnya
+R96,"R96 Other sudden death, cause unknown",Penyakit Lainnya
+R98,R98 Unattended death,Penyakit Lainnya
+R99,R99 Other ill-defined and unspecified causes of mortality,Penyakit Lainnya
+S00,S00 Superficial injury of head,Penyakit Lainnya
+S01,S01 Open wound of head,Penyakit Lainnya
+S02,S02 Fracture of skull and facial bones,Penyakit Lainnya
+S03,"S03 Dislocation, sprain and strain of joints and ligaments of head",Penyakit Lainnya
+S04,S04 Injury of cranial nerves,Penyakit Lainnya
+S05,S05 Injury of eye and orbit,Penyakit Lainnya
+S06,S06 Intracranial injury,Penyakit Lainnya
+S07,S07 Crushing injury of head,Penyakit Lainnya
+S08,S08 Traumatic amputation of part of head,Penyakit Lainnya
+S09,S09 Other and unspecified injuries of head,Penyakit Lainnya
+S10,S10 Superficial injury of neck,Penyakit Lainnya
+S11,S11 Open wound of neck,Penyakit Lainnya
+S12,S12 Fracture of neck,Penyakit Lainnya
+S13,"S13 Dislocation, sprain and strain of joints and ligaments at neck level",Penyakit Lainnya
+S14,S14 Injury of nerves and spinal cord at neck level,Penyakit Lainnya
+S15,S15 Injury of blood vessels at neck level,Penyakit Lainnya
+S16,S16 Injury of muscle and tendon at neck level,Penyakit Lainnya
+S19,S19 Other and unspecified injuries of neck,Penyakit Lainnya
+S20,S20 Superficial injury of thorax,Penyakit Lainnya
+S21,S21 Open wound of thorax,Penyakit Lainnya
+S22,"S22 Fracture of rib(s), sternum and thoracic spine",Penyakit Lainnya
+S23,"S23 Dislocation, sprain and strain of joints and ligaments of thorax",Penyakit Lainnya
+S24,S24 Injury of nerves and spinal cord at thorax level,Penyakit Lainnya
+S25,S25 Injury of blood vessels of thorax,Penyakit Lainnya
+S27,S27 Injury of other and unspecified intrathoracic organs,Penyakit Lainnya
+S28,S28 Crushing injury of thorax and traumatic amputation of part of thorax,Penyakit Lainnya
+S29,S29 Other and unspecified injuries of thorax,Penyakit Lainnya
+S30,"S30 Superficial injury of abdomen, lower back and pelvis",Penyakit Lainnya
+S31,"S31 Open wound of abdomen, lower back and pelvis",Penyakit Lainnya
+S32,S32 Fracture of lumbar spine and pelvis,Penyakit Lainnya
+S33,"S33 Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",Penyakit Lainnya
+S34,"S34 Injury of nerves and lumbar spinal cord at abdomen, lower back and pelvis level",Penyakit Lainnya
+S36,S36 Injury of intra-abdominal organs,Penyakit Lainnya
+S37,S37 Injury of urinary and pelvic organs,Penyakit Lainnya
+S38,"S38 Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis",Penyakit Lainnya
+S39,"S39 Other and unspecified injuries of abdomen, lower back and pelvis",Penyakit Lainnya
+S40,S40 Superficial injury of shoulder and upper arm,Penyakit Lainnya
+S41,S41 Open wound of shoulder and upper arm,Penyakit Lainnya
+S42,S42 Fracture of shoulder and upper arm,Penyakit Lainnya
+S43,"S43 Dislocation, sprain and strain of joints and ligaments of shoulder girdle",Penyakit Lainnya
+S44,S44 Injury of nerves at shoulder and upper arm level,Penyakit Lainnya
+S45,S45 Injury of blood vessels at shoulder and upper arm level,Penyakit Lainnya
+S46,S46 Injury of muscle and tendon at shoulder and upper arm level,Penyakit Lainnya
+S47,S47 Crushing injury of shoulder and upper arm,Penyakit Lainnya
+S49,S49 Other and unspecified injuries of shoulder and upper arm,Penyakit Lainnya
+S50,S50 Superficial injury of forearm,Penyakit Lainnya
+S51,S51 Open wound of forearm,Penyakit Lainnya
+S52,S52 Fracture of forearm,Penyakit Lainnya
+S53,"S53 Dislocation, sprain and strain of joints and ligaments of elbow",Penyakit Lainnya
+S54,S54 Injury of nerves at forearm level,Penyakit Lainnya
+S55,S55 Injury of blood vessels at forearm level,Penyakit Lainnya
+S56,S56 Injury of muscle and tendon at forearm level,Penyakit Lainnya
+S57,S57 Crushing injury of forearm,Penyakit Lainnya
+S59,S59 Other and unspecified injuries of forearm,Penyakit Lainnya
+S60,S60 Superficial injury of wrist and hand,Penyakit Lainnya
+S61,S61 Open wound of wrist and hand,Penyakit Lainnya
+S62,S62 Fracture at wrist and hand level,Penyakit Lainnya
+S63,"S63 Dislocation, sprain and strain of joints and ligaments at wrist and hand level",Penyakit Lainnya
+S64,S64 Injury of nerves at wrist and hand level,Penyakit Lainnya
+S65,S65 Injury of blood vessels at wrist and hand level,Penyakit Lainnya
+S66,S66 Injury of muscle and tendon at wrist and hand level,Penyakit Lainnya
+S67,S67 Crushing injury of wrist and hand,Penyakit Lainnya
+S68,S68 Traumatic amputation of wrist and hand,Penyakit Lainnya
+S69,S69 Other and unspecified injuries of wrist and hand,Penyakit Lainnya
+S70,S70 Superficial injury of hip and thigh,Penyakit Lainnya
+S71,S71 Open wound of hip and thigh,Penyakit Lainnya
+S72,S72 Fracture of femur,Penyakit Lainnya
+S73,"S73 Dislocation, sprain and strain of joint and ligaments of hip",Penyakit Lainnya
+S74,S74 Injury of nerves at hip and thigh level,Penyakit Lainnya
+S76,S76 Injury of muscle and tendon at hip and thigh level,Penyakit Lainnya
+S79,S79 Other and unspecified injuries of hip and thigh,Penyakit Lainnya
+S80,S80 Superficial injury of lower leg,Penyakit Lainnya
+S81,S81 Open wound of lower leg,Penyakit Lainnya
+S82,"S82 Fracture of lower leg, including ankle",Penyakit Lainnya
+S83,"S83 Dislocation, sprain and strain of joints and ligaments of knee",Penyakit Lainnya
+S84,S84 Injury of nerves at lower leg level,Penyakit Lainnya
+S85,S85 Injury of blood vessels at lower leg level,Penyakit Lainnya
+S86,S86 Injury of muscle and tendon at lower leg level,Penyakit Lainnya
+S87,S87 Crushing injury of lower leg,Penyakit Lainnya
+S88,S88 Traumatic amputation of lower leg,Penyakit Lainnya
+S89,S89 Other and unspecified injuries of lower leg,Penyakit Lainnya
+S90,S90 Superficial injury of ankle and foot,Penyakit Lainnya
+S91,S91 Open wound of ankle and foot,Penyakit Lainnya
+S92,"S92 Fracture of foot, except ankle",Penyakit Lainnya
+S93,"S93 Dislocation, sprain and strain of joints and ligaments at ankle and foot level",Penyakit Lainnya
+S94,S94 Injury of nerves at ankle and foot level,Penyakit Lainnya
+S95,S95 Injury of blood vessels at ankle and foot level,Penyakit Lainnya
+S96,S96 Injury of muscle and tendon at ankle and foot level,Penyakit Lainnya
+S97,S97 Crushing injury of ankle and foot,Penyakit Lainnya
+S98,S98 Traumatic amputation of ankle and foot,Penyakit Lainnya
+S99,S99 Other and unspecified injuries of ankle and foot,Penyakit Lainnya
+T00,T00 Superficial injuries involving multiple body regions,Penyakit Lainnya
+T01,T01 Open wounds involving multiple body regions,Penyakit Lainnya
+T02,T02 Fractures involving multiple body regions,Penyakit Lainnya
+T03,"T03 Dislocations, sprains and strains involving multiple body regions",Penyakit Lainnya
+T04,T04 Crushing injuries involving multiple body regions,Penyakit Lainnya
+T05,T05 Traumatic amputations involving multiple body regions,Penyakit Lainnya
+T06,"T06 Other injuries involving multiple body regions, not elsewhere classified",Penyakit Lainnya
+T07,T07 Unspecified multiple injuries,Penyakit Lainnya
+T08,"T08 Fracture of spine, level unspecified",Penyakit Lainnya
+T09,"T09 Other injuries of spine and trunk, level unspecified",Penyakit Lainnya
+T10,"T10 Fracture of upper limb, level unspecified",Penyakit Lainnya
+T11,"T11 Other injuries of upper limb, level unspecified",Penyakit Lainnya
+T12,"T12 Fracture of lower limb, level unspecified",Penyakit Lainnya
+T13,"T13 Other injuries of lower limb, level unspecified",Penyakit Lainnya
+T14,T14 Injury of unspecified body region,Penyakit Lainnya
+T15,T15 Foreign body on external eye,Penyakit Lainnya
+T16,T16 Foreign body in ear,Penyakit Lainnya
+T17,T17 Foreign body in respiratory tract,Penyakit Lainnya
+T18,T18 Foreign body in alimentary tract,Penyakit Lainnya
+T19,T19 Foreign body in genitourinary tract,Penyakit Lainnya
+T20,T20 Burn and corrosion of head and neck,Penyakit Lainnya
+T21,T21 Burn and corrosion of trunk,Penyakit Lainnya
+T22,"T22 Burn and corrosion of shoulder and upper limb, except wrist and hand",Penyakit Lainnya
+T23,T23 Burn and corrosion of wrist and hand,Penyakit Lainnya
+T24,"T24 Burn and corrosion of hip and lower limb, except ankle and foot",Penyakit Lainnya
+T25,T25 Burn and corrosion of ankle and foot,Penyakit Lainnya
+T26,T26 Burn and corrosion confined to eye and adnexa,Penyakit Lainnya
+T29,T29 Burns and corrosions of multiple body regions,Penyakit Lainnya
+T30,"T30 Burn and corrosion, body region unspecified",Penyakit Lainnya
+T31,T31 Burns classified according to extent of body surface involved,Penyakit Lainnya
+T32,T32 Corrosions classified according to extent of body surface involved,Penyakit Lainnya
+T34,T34 Frostbite with tissue necrosis,Penyakit Lainnya
+T35,T35 Frostbite involving multiple body regions and unspecified frostbite,Penyakit Lainnya
+T36,T36 Poisoning by systemic antibiotics,Penyakit Lainnya
+T37,T37 Poisoning by other systemic anti-infectives and antiparasitics,Penyakit Lainnya
+T39,"T39 Poisoning by nonopioid analgesics, antipyretics and antirheumatics",Penyakit Lainnya
+T41,T41 Poisoning by anaesthetics and therapeutic gases,Penyakit Lainnya
+T44,T44 Poisoning by drugs primarily affecting the autonomic nervous system,Penyakit Lainnya
+T45,"T45 Poisoning by primarily systemic and haematological agents, not elsewhere classified",Penyakit Lainnya
+T49,"T49 Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological and dental drugs",Penyakit Lainnya
+T50,"T50 Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",Penyakit Lainnya
+T51,T51 Toxic effect of alcohol,Penyakit Lainnya
+T52,T52 Toxic effect of organic solvents,Penyakit Lainnya
+T56,T56 Toxic effect of metals,Penyakit Lainnya
+T60,T60 Toxic effect of pesticides,Penyakit Lainnya
+T61,T61 Toxic effect of noxious substances eaten as seafood,Penyakit Lainnya
+T62,T62 Toxic effect of other noxious substances eaten as food,Penyakit Lainnya
+T63,T63 Toxic effect of contact with venomous animals,Penyakit Lainnya
+T64,T64 Toxic effect of aflatoxin and other mycotoxin food contaminants,Penyakit Lainnya
+T65,T65 Toxic effect of other and unspecified substances,Penyakit Lainnya
+T67,T67 Effects of heat and light,Penyakit Lainnya
+T68,T68 Hypothermia,Penyakit Lainnya
+T70,T70 Effects of air pressure and water pressure,Penyakit Lainnya
+T71,T71 Asphyxiation,Penyakit Lainnya
+T74,T74 Maltreatment syndromes,Penyakit Lainnya
+T75,T75 Effects of other external causes,Penyakit Lainnya
+T78,"T78 Adverse effects, not elsewhere classified",Penyakit Lainnya
+T79,"T79 Certain early complications of trauma, not elsewhere classified",Penyakit Lainnya
+T80,"T80 Complications following infusion, transfusion and therapeutic injection",Penyakit Lainnya
+T81,"T81 Complications of procedures, not elsewhere classified",Penyakit Lainnya
+T82,"T82 Complications of cardiac and vascular prosthetic devices, implants and grafts",Penyakit Lainnya
+T83,"T83 Complications of genitourinary prosthetic devices, implants and grafts",Penyakit Lainnya
+T84,"T84 Complications of internal orthopaedic prosthetic devices, implants and grafts",Penyakit Lainnya
+T85,"T85 Complications of other internal prosthetic devices, implants and grafts",Penyakit Lainnya
+T87,T87 Complications peculiar to reattachment and amputation,Penyakit Lainnya
+T88,"T88 Other complications of surgical and medical care, not elsewhere classified",Penyakit Lainnya
+T90,T90 Sequelae of injuries of head,Penyakit Lainnya
+T91,T91 Sequelae of injuries of neck and trunk,Penyakit Lainnya
+T92,T92 Sequelae of injuries of upper limb,Penyakit Lainnya
+T93,T93 Sequelae of injuries of lower limb,Penyakit Lainnya
+T94,T94 Sequelae of injuries involving multiple and unspecified body regions,Penyakit Lainnya
+T95,"T95 Sequelae of burns, corrosions and frostbite",Penyakit Lainnya
+T98,T98 Sequelae of other and unspecified effects of external causes,Penyakit Lainnya
+Z00,Z00 General examination and investigation of persons without complaint and reported diagnosis,Penyakit Lainnya
+Z01,Z01 Other special examinations and investigations of persons without complaint or reported diagnosis,Penyakit Lainnya
+Z02,Z02 Examination and encounter for administrative purposes,Penyakit Lainnya
+Z03,Z03 Medical observation and evaluation for suspected diseases and conditions,Penyakit Lainnya
+Z04,Z04 Examination and observation for other reasons,Penyakit Lainnya
+Z08,Z08 Follow-up examination after treatment for malignant neoplasms,Penyakit Lainnya
+Z09,Z09 Follow-up examination after treatment for conditions other than malignant neoplasms,Penyakit Lainnya
+Z10,Z10 Routine general health check-up of defined subpopulation,Penyakit Lainnya
+Z11,Z11 Special screening examination for infectious and parasitic diseases,Penyakit Lainnya
+Z12,Z12 Special screening examination for neoplasms,Penyakit Lainnya
+Z13,Z13 Special screening examination for other diseases and disorders,Penyakit Lainnya
+Z20,Z20 Contact with and exposure to communicable diseases,Penyakit Lainnya
+Z21,Z21 Asymptomatic human immunodeficiency virus [HIV] infection status,Penyakit Lainnya
+Z22,Z22 Carrier of infectious disease,Penyakit Lainnya
+Z23,Z23 Need for immunization against single bacterial diseases,Penyakit Lainnya
+Z24,Z24 Need for immunization against certain single viral diseases,Penyakit Lainnya
+Z25,Z25 Need for immunization against other single viral diseases,Penyakit Lainnya
+Z26,Z26 Need for immunization against other single infectious diseases,Penyakit Lainnya
+Z27,Z27 Need for immunization against combinations of infectious diseases,Penyakit Lainnya
+Z29,Z29 Need for other prophylactic measures,Penyakit Lainnya
+Z30,Z30 Contraceptive management,Penyakit Lainnya
+Z31,Z31 Procreative management,Penyakit Lainnya
+Z32,Z32 Pregnancy examination and test,Penyakit Lainnya
+Z33,"Z33 Pregnant state, incidental",Penyakit Lainnya
+Z34,Z34 Supervision of normal pregnancy,Penyakit Lainnya
+Z35,Z35 Supervision of high-risk pregnancy,Penyakit Lainnya
+Z36,Z36 Antenatal screening,Penyakit Lainnya
+Z38,Z38 Liveborn infants according to place of birth,Penyakit Lainnya
+Z39,Z39 Postpartum care and examination,Penyakit Lainnya
+Z40,Z40 Prophylactic surgery,Penyakit Lainnya
+Z41,Z41 Procedures for purposes other than remedying health state,Penyakit Lainnya
+Z42,Z42 Follow-up care involving plastic surgery,Penyakit Lainnya
+Z43,Z43 Attention to artificial openings,Penyakit Lainnya
+Z44,Z44 Fitting and adjustment of external prosthetic device,Penyakit Lainnya
+Z45,Z45 Adjustment and management of implanted device,Penyakit Lainnya
+Z46,Z46 Fitting and adjustment of other devices,Penyakit Lainnya
+Z47,Z47 Other orthopaedic follow-up care,Penyakit Lainnya
+Z48,Z48 Other surgical follow-up care,Penyakit Lainnya
+Z49,Z49 Care involving dialysis,Penyakit Lainnya
+Z50,Z50 Care involving use of rehabilitation procedures,Penyakit Lainnya
+Z51,Z51 Other medical care,Penyakit Lainnya
+Z52,Z52 Donors of organs and tissues,Penyakit Lainnya
+Z53,"Z53 Persons encountering health services for specific procedures, not carried out",Penyakit Lainnya
+Z54,Z54 Convalescence,Penyakit Lainnya
+Z56,Z56 Problems related to employment and unemployment,Penyakit Lainnya
+Z58,Z58 Problems related to physical environment,Penyakit Lainnya
+Z59,Z59 Problems related to housing and economic circumstances,Penyakit Lainnya
+Z60,Z60 Problems related to social environment,Penyakit Lainnya
+Z61,Z61 Problems related to negative life events in childhood,Penyakit Lainnya
+Z70,"Z70 Counselling related to sexual attitude, behaviour and orientation",Penyakit Lainnya
+Z71,"Z71 Persons encountering health services for other counselling and medical advice, not elsewhere classified",Penyakit Lainnya
+Z72,Z72 Problems related to lifestyle,Penyakit Lainnya
+Z73,Z73 Problems related to life-management difficulty,Penyakit Lainnya
+Z74,Z74 Problems related to care-provider dependency,Penyakit Lainnya
+Z75,Z75 Problems related to medical facilities and other health care,Penyakit Lainnya
+Z76,Z76 Persons encountering health services in other circumstances,Penyakit Lainnya
+Z80,Z80 Family history of malignant neoplasm,Penyakit Lainnya
+Z82,Z82 Family history of certain disabilities and chronic diseases leading to disablement,Penyakit Lainnya
+Z83,Z83 Family history of other specific disorders,Penyakit Lainnya
+Z84,Z84 Family history of other conditions,Penyakit Lainnya
+Z85,Z85 Personal history of malignant neoplasm,Penyakit Lainnya
+Z86,Z86 Personal history of certain other diseases,Penyakit Lainnya
+Z87,Z87 Personal history of other diseases and conditions,Penyakit Lainnya
+Z88,"Z88 Personal history of allergy to drugs, medicaments and biological substances",Penyakit Lainnya
+Z89,Z89 Acquired absence of limb,Penyakit Lainnya
+Z90,"Z90 Acquired absence of organs, not elsewhere classified",Penyakit Lainnya
+Z91,"Z91 Personal history of risk-factors, not elsewhere classified",Penyakit Lainnya
+Z92,Z92 Personal history of medical treatment,Penyakit Lainnya
+Z93,Z93 Artificial opening status,Penyakit Lainnya
+Z94,Z94 Transplanted organ and tissue status,Penyakit Lainnya
+Z95,Z95 Presence of cardiac and vascular implants and grafts,Penyakit Lainnya
+Z96,Z96 Presence of other functional implants,Penyakit Lainnya
+Z97,Z97 Presence of other devices,Penyakit Lainnya
+Z98,Z98 Other postsurgical states,Penyakit Lainnya
+Z99,"Z99 Dependence on enabling machines and devices, not elsewhere classified",Penyakit Lainnya
+B04,B04 Monkeypox,Penyakit Lainnya
+B80,B80 Enterobiasis,Penyakit Lainnya
+C72,"C72 Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",Katastropik
+F66,F66 Psychological and behavioural disorders associated with sexual development and orientation,Penyakit Lainnya
+G02,G02 Meningitis in other infectious and parasitic diseases classified elsewhere,Penyakit Lainnya
+L59,L59 Other disorders of skin and subcutaneous tissue related to radiation,Penyakit Lainnya
+L71,L71 Rosacea,Penyakit Lainnya
+L83,L83 Acanthosis nigricans,Penyakit Lainnya
+P53,P53 Haemorrhagic disease of fetus and newborn,Penyakit Lainnya
+P77,P77 Necrotizing enterocolitis of fetus and newborn,Penyakit Lainnya
+Q14,Q14 Congenital malformations of posterior segment of eye,Penyakit Lainnya
+Q60,Q60 Renal agenesis and other reduction defects of kidney,Penyakit Lainnya
+Q77,Q77 Osteochondrodysplasia with defects of growth of tubular bones and spine,Penyakit Lainnya
+Q93,"Q93 Monosomies and deletions from the autosomes, not elsewhere classified",Penyakit Lainnya
+R65,R65 Systemic Inflammatory Response Syndrome [SIRS],Penyakit Lainnya
+S77,S77 Crushing injury of hip and thigh,Penyakit Lainnya
+T47,T47 Poisoning by agents primarily affecting the gastrointestinal system,Penyakit Lainnya
+T86,T86 Failure and rejection of transplanted organs and tissues,Penyakit Lainnya
+A21,A21 Tularaemia,Penyakit Lainnya
+A22,A22 Anthrax,Penyakit Lainnya
+A24,A24 Glanders and melioidosis,Penyakit Lainnya
+A26,A26 Erysipeloid,Penyakit Lainnya
+A28,"A28 Other zoonotic bacterial diseases, not elsewhere classified",Penyakit Lainnya
+A34,A34 Obstetrical tetanus,Penyakit Lainnya
+A38,A38 Scarlet fever,Penyakit Lainnya
+A43,A43 Nocardiosis,Penyakit Lainnya
+A55,A55 Chlamydial lymphogranuloma (venereum),Penyakit Lainnya
+A65,A65 Nonvenereal syphilis,Penyakit Lainnya
+A67,A67 Pinta [carate],Penyakit Lainnya
+A78,A78 Q fever,Penyakit Lainnya
+A80,A80 Acute poliomyelitis,Penyakit Lainnya
+A83,A83 Mosquito-borne viral encephalitis,Penyakit Lainnya
+A84,A84 Tick-borne viral encephalitis,Penyakit Lainnya
+A89,A89 Unspecified viral infection of central nervous system,Penyakit Lainnya
+A93,"A93 Other arthropod-borne viral fevers, not elsewhere classified",Penyakit Lainnya
+A94,A94 Unspecified arthropod-borne viral fever,Penyakit Lainnya
+A95,A95 Yellow fever,Penyakit Lainnya
+A96,A96 Arenaviral haemorrhagic fever,Penyakit Lainnya
+B03,B03 Smallpox,Penyakit Lainnya
+B27,B27 Infectious mononucleosis,Penyakit Lainnya
+B40,B40 Blastomycosis,Penyakit Lainnya
+B47,B47 Mycetoma,Penyakit Lainnya
+B55,B55 Leishmaniasis,Penyakit Lainnya
+B56,B56 African trypanosomiasis,Penyakit Lainnya
+B57,B57 Chagas disease,Penyakit Lainnya
+B60,"B60 Other protozoal diseases, not elsewhere classified",Penyakit Lainnya
+B64,B64 Unspecified protozoal disease,Penyakit Lainnya
+B70,B70 Diphyllobothriasis and sparganosis,Penyakit Lainnya
+B75,B75 Trichinellosis,Penyakit Lainnya
+B78,B78 Strongyloidiasis,Penyakit Lainnya
+B79,B79 Trichuriasis,Penyakit Lainnya
+B81,"B81 Other intestinal helminthiases, not elsewhere classified",Penyakit Lainnya
+B89,B89 Unspecified parasitic disease,Penyakit Lainnya
+B91,B91 Sequelae of poliomyelitis,Penyakit Lainnya
+B98,B98 Other specified infectious agents as the cause of diseases classified to other chapters,Penyakit Lainnya
+C13,C13 Malignant neoplasm of hypopharynx,Katastropik
+C39,C39 Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,Katastropik
+C48,C48 Malignant neoplasm of retroperitoneum and peritoneum,Katastropik
+C86,C86 Other specified types of T/NK-cell lymphoma,Penyakit Lainnya
+C88,C88 Malignant immunoproliferative diseases,Katastropik
+D57,D57 Sickle-cell disorders,Penyakit Lainnya
+D60,D60 Acquired pure red cell aplasia [erythroblastopenia],Penyakit Lainnya
+D63,D63 Anaemia in chronic diseases classified elsewhere,Penyakit Lainnya
+D71,D71 Functional disorders of polymorphonuclear neutrophils,Penyakit Lainnya
+D74,D74 Methaemoglobinaemia,Penyakit Lainnya
+D77,D77 Other disorders of blood and blood-forming organs in diseases classified elsewhere,Katastropik
+D82,D82 Immunodeficiency associated with other major defects,Penyakit Lainnya
+E00,E00 Congenital iodine-deficiency syndrome,Penyakit Lainnya
+E25,E25 Adrenogenital disorders,Penyakit Lainnya
+E29,E29 Testicular dysfunction,Penyakit Lainnya
+E31,E31 Polyglandular dysfunction,Penyakit Lainnya
+E35,E35 Disorders of endocrine glands in diseases classified elsewhere,Penyakit Lainnya
+E55,E55 Vitamin D deficiency,Penyakit Lainnya
+E58,E58 Dietary calcium deficiency,Penyakit Lainnya
+E59,E59 Dietary selenium deficiency,Penyakit Lainnya
+E61,E61 Deficiency of other nutrient elements,Penyakit Lainnya
+E65,E65 Localized adiposity,Penyakit Lainnya
+E71,E71 Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism,Penyakit Lainnya
+E72,E72 Other disorders of amino-acid metabolism,Penyakit Lainnya
+E77,E77 Disorders of glycoprotein metabolism,Penyakit Lainnya
+F00,F00 Dementia in Alzheimer disease,Penyakit Lainnya
+F02,F02 Dementia in other diseases classified elsewhere,Penyakit Lainnya
+F11,F11 Mental and behavioural disorders due to use of opioids,Penyakit Lainnya
+F12,F12 Mental and behavioural disorders due to use of cannabinoids,Penyakit Lainnya
+F16,F16 Mental and behavioural disorders due to use of hallucinogens,Penyakit Lainnya
+F17,F17 Mental and behavioural disorders due to use of tobacco,Penyakit Lainnya
+F24,F24 Induced delusional disorder,Penyakit Lainnya
+F54,F54 Psychological and behavioural factors associated with disorders or diseases classified elsewhere,Penyakit Lainnya
+F62,"F62 Enduring personality changes, not attributable to brain damage and disease",Penyakit Lainnya
+F64,F64 Gender identity disorders,Penyakit Lainnya
+F68,F68 Other disorders of adult personality and behaviour,Penyakit Lainnya
+F69,F69 Unspecified disorder of adult personality and behaviour,Penyakit Lainnya
+F73,F73 Profound mental retardation,Penyakit Lainnya
+F94,F94 Disorders of social functioning with onset specific to childhood and adolescence,Penyakit Lainnya
+G01,G01 Meningitis in bacterial diseases classified elsewhere,Penyakit Lainnya
+G05,"G05 Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",Penyakit Lainnya
+G07,G07 Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,Penyakit Lainnya
+G13,G13 Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere,Penyakit Lainnya
+G14,G14 Postpolio syndrome,Penyakit Lainnya
+G22,G22 Parkinsonism in diseases classified elsewhere,Penyakit Lainnya
+G26,G26 Extrapyramidal and movement disorders in diseases classified elsewhere,Penyakit Lainnya
+G32,G32 Other degenerative disorders of nervous system in diseases classified elsewhere,Penyakit Lainnya
+G46,G46 Vascular syndromes of brain in cerebrovascular diseases,Penyakit Lainnya
+G53,G53 Cranial nerve disorders in diseases classified elsewhere,Penyakit Lainnya
+G55,G55 Nerve root and plexus compressions in diseases classified elsewhere,Penyakit Lainnya
+G59,G59 Mononeuropathy in diseases classified elsewhere,Penyakit Lainnya
+G73,G73 Disorders of myoneural junction and muscle in diseases classified elsewhere,Penyakit Lainnya
+G94,G94 Other disorders of brain in diseases classified elsewhere,Penyakit Lainnya
+G99,G99 Other disorders of nervous system in diseases classified elsewhere,Penyakit Lainnya
+H03,H03 Disorders of eyelid in diseases classified elsewhere,Penyakit Lainnya
+H06,H06 Disorders of lacrimal system and orbit in diseases classified elsewhere,Penyakit Lainnya
+H13,H13 Disorders of conjunctiva in diseases classified elsewhere,Penyakit Lainnya
+H19,H19 Disorders of sclera and cornea in diseases classified elsewhere,Penyakit Lainnya
+H22,H22 Disorders of iris and ciliary body in diseases classified elsewhere,Penyakit Lainnya
+H28,H28 Cataract and other disorders of lens in diseases classified elsewhere,Penyakit Lainnya
+H32,H32 Chorioretinal disorders in diseases classified elsewhere,Penyakit Lainnya
+H36,H36 Retinal disorders in diseases classified elsewhere,Penyakit Lainnya
+H42,H42 Glaucoma in diseases classified elsewhere,Penyakit Lainnya
+H45,H45 Disorders of vitreous body and globe in diseases classified elsewhere,Penyakit Lainnya
+H48,H48 Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere,Penyakit Lainnya
+H58,H58 Other disorders of eye and adnexa in diseases classified elsewhere,Penyakit Lainnya
+H62,H62 Disorders of external ear in diseases classified elsewhere,Penyakit Lainnya
+H67,H67 Otitis media in diseases classified elsewhere,Penyakit Lainnya
+H75,H75 Other disorders of middle ear and mastoid in diseases classified elsewhere,Penyakit Lainnya
+H82,H82 Vertiginous syndromes in diseases classified elsewhere,Penyakit Lainnya
+H94,H94 Other disorders of ear in diseases classified elsewhere,Penyakit Lainnya
+I32,I32 Pericarditis in diseases classified elsewhere,Katastropik
+I36,I36 Nonrheumatic tricuspid valve disorders,Katastropik
+I39,I39 Endocarditis and heart valve disorders in diseases classified elsewhere,Katastropik
+I41,I41 Myocarditis in diseases classified elsewhere,Katastropik
+I43,I43 Cardiomyopathy in diseases classified elsewhere,Katastropik
+I52,I52 Other heart disorders in diseases classified elsewhere,Katastropik
+I68,I68 Cerebrovascular disorders in diseases classified elsewhere,Katastropik
+I79,"I79 Disorders of arteries, arterioles and capillaries in diseases classified elsewhere",Katastropik
+I84,I84 Haemorrhoids,Penyakit Lainnya
+J09,J09 Influenza due to certain identified influenza virus,Penyakit Lainnya
+J17,J17 Pneumonia in diseases classified elsewhere,Penyakit Lainnya
+J60,J60 Coalworker pneumoconiosis,Penyakit Lainnya
+J61,J61 Pneumoconiosis due to asbestos and other mineral fibres,Penyakit Lainnya
+J62,J62 Pneumoconiosis due to dust containing silica,Penyakit Lainnya
+J64,J64 Unspecified pneumoconiosis,Penyakit Lainnya
+J66,J66 Airway disease due to specific organic dust,Penyakit Lainnya
+J67,J67 Hypersensitivity pneumonitis due to organic dust,Penyakit Lainnya
+J82,"J82 Pulmonary eosinophilia, not elsewhere classified",Penyakit Lainnya
+J92,J92 Pleural plaque,Penyakit Lainnya
+J99,J99 Respiratory disorders in diseases classified elsewhere,Penyakit Lainnya
+K23,K23 Disorders of oesophagus in diseases classified elsewhere,Penyakit Lainnya
+K67,K67 Disorders of peritoneum in infectious diseases classified elsewhere,Penyakit Lainnya
+K77,K77 Liver disorders in diseases classified elsewhere,Penyakit Lainnya
+K87,"K87 Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",Penyakit Lainnya
+L14,L14 Bullous disorders in diseases classified elsewhere,Penyakit Lainnya
+L45,L45 Papulosquamous disorders in diseases classified elsewhere,Penyakit Lainnya
+L54,L54 Erythema in diseases classified elsewhere,Penyakit Lainnya
+L55,L55 Sunburn,Penyakit Lainnya
+L62,L62 Nail disorders in diseases classified elsewhere,Penyakit Lainnya
+L67,L67 Hair colour and hair shaft abnormalities,Penyakit Lainnya
+L68,L68 Hypertrichosis,Penyakit Lainnya
+L75,L75 Apocrine sweat disorders,Penyakit Lainnya
+L86,L86 Keratoderma in diseases classified elsewhere,Penyakit Lainnya
+L87,L87 Transepidermal elimination disorders,Penyakit Lainnya
+L99,L99 Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,Penyakit Lainnya
+M01,M01 Direct infections of joint in infectious and parasitic diseases classified elsewhere,Penyakit Lainnya
+M03,M03 Postinfective and reactive arthropathies in diseases classified elsewhere,Penyakit Lainnya
+M07,M07 Psoriatic and enteropathic arthropathies,Penyakit Lainnya
+M09,M09 Juvenile arthritis in diseases classified elsewhere,Penyakit Lainnya
+M33,M33 Dermatopolymyositis,Penyakit Lainnya
+M36,M36 Systemic disorders of connective tissue in diseases classified elsewhere,Penyakit Lainnya
+M49,M49 Spondylopathies in diseases classified elsewhere,Penyakit Lainnya
+M63,M63 Disorders of muscle in diseases classified elsewhere,Penyakit Lainnya
+M68,M68 Disorders of synovium and tendon in diseases classified elsewhere,Penyakit Lainnya
+M73,M73 Soft tissue disorders in diseases classified elsewhere,Penyakit Lainnya
+M82,M82 Osteoporosis in diseases classified elsewhere,Penyakit Lainnya
+M90,M90 Osteopathies in diseases classified elsewhere,Penyakit Lainnya
+M91,M91 Juvenile osteochondrosis of hip and pelvis,Penyakit Lainnya
+N07,"N07 Hereditary nephropathy, not elsewhere classified",Penyakit Lainnya
+N08,N08 Glomerular disorders in diseases classified elsewhere,Penyakit Lainnya
+N16,N16 Renal tubulo-interstitial disorders in diseases classified elsewhere,Penyakit Lainnya
+N22,N22 Calculus of urinary tract in diseases classified elsewhere,Penyakit Lainnya
+N29,N29 Other disorders of kidney and ureter in diseases classified elsewhere,Penyakit Lainnya
+N33,N33 Bladder disorders in diseases classified elsewhere,Penyakit Lainnya
+N37,N37 Urethral disorders in diseases classified elsewhere,Penyakit Lainnya
+N51,N51 Disorders of male genital organs in diseases classified elsewhere,Penyakit Lainnya
+N74,N74 Female pelvic inflammatory disorders in diseases classified elsewhere,Penyakit Lainnya
+N77,N77 Vulvovaginal ulceration and inflammation in diseases classified elsewhere,Penyakit Lainnya
+O74,O74 Complications of anaesthesia during labour and delivery,Penyakit Lainnya
+O89,O89 Complications of anaesthesia during the puerperium,Penyakit Lainnya
+O94,"O94 Sequelae of complication of pregnancy, childbirth and the puerperium",Penyakit Lainnya
+O97,O97 Death from sequelae of obstetric causes,Penyakit Lainnya
+P25,P25 Interstitial emphysema and related conditions originating in the perinatal period,Penyakit Lainnya
+P27,P27 Chronic respiratory disease originating in the perinatal period,Penyakit Lainnya
+P75,P75 Meconium ileus in cystic fibrosis,Penyakit Lainnya
+P93,P93 Reactions and intoxications due to drugs administered to fetus and newborn,Penyakit Lainnya
+Q07,Q07 Other congenital malformations of nervous system,Penyakit Lainnya
+Q71,Q71 Reduction defects of upper limb,Penyakit Lainnya
+Q84,Q84 Other congenital malformations of integument,Penyakit Lainnya
+Q99,"Q99 Other chromosome abnormalities, not elsewhere classified",Penyakit Lainnya
+R36,R36 Urethral discharge,Penyakit Lainnya
+R44,R44 Other symptoms and signs involving general sensations and perceptions,Penyakit Lainnya
+R45,R45 Symptoms and signs involving emotional state,Penyakit Lainnya
+R70,R70 Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,Penyakit Lainnya
+R71,R71 Abnormality of red blood cells,Penyakit Lainnya
+R76,R76 Other abnormal immunological findings in serum,Penyakit Lainnya
+R78,"R78 Findings of drugs and other substances, not normally found in blood",Penyakit Lainnya
+R80,R80 Isolated proteinuria,Penyakit Lainnya
+R81,R81 Glycosuria,Penyakit Lainnya
+R83,R83 Abnormal findings in cerebrospinal fluid,Penyakit Lainnya
+R86,R86 Abnormal findings in specimens from male genital organs,Penyakit Lainnya
+R87,R87 Abnormal findings in specimens from female genital organs,Penyakit Lainnya
+R89,"R89 Abnormal findings in specimens from other organs, systems and tissues",Penyakit Lainnya
+R92,R92 Abnormal findings on diagnostic imaging of breast,Penyakit Lainnya
+R95,R95 Sudden infant death syndrome,Penyakit Lainnya
+S17,S17 Crushing injury of neck,Penyakit Lainnya
+S18,S18 Traumatic amputation at neck level,Penyakit Lainnya
+S26,S26 Injury of heart,Penyakit Lainnya
+S35,"S35 Injury of blood vessels at abdomen, lower back and pelvis level",Penyakit Lainnya
+S48,S48 Traumatic amputation of shoulder and upper arm,Penyakit Lainnya
+S58,S58 Traumatic amputation of forearm,Penyakit Lainnya
+S78,S78 Traumatic amputation of hip and thigh,Penyakit Lainnya
+T27,T27 Burn and corrosion of respiratory tract,Penyakit Lainnya
+T33,T33 Superficial frostbite,Penyakit Lainnya
+T38,"T38 Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",Penyakit Lainnya
+T40,T40 Poisoning by narcotics and psychodysleptics [hallucinogens],Penyakit Lainnya
+T42,"T42 Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",Penyakit Lainnya
+T43,"T43 Poisoning by psychotropic drugs, not elsewhere classified",Penyakit Lainnya
+T46,T46 Poisoning by agents primarily affecting the cardiovascular system,Penyakit Lainnya
+T55,T55 Toxic effect of soaps and detergents,Penyakit Lainnya
+T58,T58 Toxic effect of carbon monoxide,Penyakit Lainnya
+T69,T69 Other effects of reduced temperature,Penyakit Lainnya
+T96,"T96 Sequelae of poisoning by drugs, medicaments and biological substances",Penyakit Lainnya
+T97,T97 Sequelae of toxic effects of substances chiefly nonmedicinal as to source,Penyakit Lainnya
+U88,U88 Agent resistant to multiple antibiotics,Penyakit Lainnya
+V01,V01 Pedestrian injured in collision with pedal cycle,Kecelakaan
+V03,"V03 Pedestrian injured in collision with car, pick-up truck or van",Kecelakaan
+V09,V09 Pedestrian injured in other and unspecified transport accidents,Kecelakaan
+V10,V10 Pedal cyclist injured in collision with pedestrian or animal,Kecelakaan
+V12,V12 Pedal cyclist injured in collision with two- or three-wheeled motor vehicle,Kecelakaan
+V13,"V13 Pedal cyclist injured in collision with car, pick-up truck or van",Kecelakaan
+V18,V18 Pedal cyclist injured in noncollision transport accident,Kecelakaan
+V19,V19 Pedal cyclist injured in other and unspecified transport accidents,Kecelakaan
+V21,V21 Motorcycle rider injured in collision with pedal cycle,Kecelakaan
+V22,V22 Motorcycle rider injured in collision with two- or three-wheeled motor vehicle,Kecelakaan
+V28,V28 Motorcycle rider injured in noncollision transport accident,Kecelakaan
+V29,V29 Motorcycle rider injured in other and unspecified transport accidents,Kecelakaan
+V30,V30 Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal,Kecelakaan
+V38,V38 Occupant of three-wheeled motor vehicle injured in noncollision transport accident,Kecelakaan
+V45,V45 Car occupant injured in collision with railway train or railway vehicle,Kecelakaan
+V48,V48 Car occupant injured in noncollision transport accident,Kecelakaan
+V55,V55 Occupant of pick-up truck or van injured in collision with railway train or railway vehicle,Kecelakaan
+V60,V60 Occupant of heavy transport vehicle injured in collision with pedestrian or animal,Kecelakaan
+V73,"V73 Bus occupant injured in collision with car, pick-up truck or van",Kecelakaan
+V89,"V89 Motor- or nonmotor-vehicle accident, type of vehicle unspecified",Kecelakaan
+V98,V98 Other specified transport accidents,Kecelakaan
+W00,W00 Fall on same level involving ice and snow,Penyakit Lainnya
+W01,"W01 Fall on same level from slipping, tripping and stumbling",Penyakit Lainnya
+W03,"W03 Other fall on same level due to collision with, or pushing by, another person",Penyakit Lainnya
+W06,W06 Fall involving bed,Penyakit Lainnya
+W07,W07 Fall involving chair,Penyakit Lainnya
+W10,W10 Fall on and from stairs and steps,Penyakit Lainnya
+W11,W11 Fall on and from ladder,Penyakit Lainnya
+W13,"W13 Fall from, out of or through building or structure",Penyakit Lainnya
+W14,W14 Fall from tree,Penyakit Lainnya
+W18,W18 Other fall on same level,Penyakit Lainnya
+W19,W19 Unspecified fall,Penyakit Lainnya
+W20,"W20 Struck by thrown, projected or falling object",Penyakit Lainnya
+W21,W21 Striking against or struck by sports equipment,Penyakit Lainnya
+W22,W22 Striking against or struck by other objects,Penyakit Lainnya
+W23,"W23 Caught, crushed, jammed or pinched in or between objects",Penyakit Lainnya
+W25,W25 Contact with sharp glass,Penyakit Lainnya
+W26,"W26 Contact with knife, sword or dagger",Penyakit Lainnya
+W27,W27 Contact with nonpowered hand tool,Penyakit Lainnya
+W29,W29 Contact with other powered hand tools and household machinery,Penyakit Lainnya
+W32,W32 Handgun discharge,Penyakit Lainnya
+W33,"W33 Rifle, shotgun and larger firearm discharge",Penyakit Lainnya
+W34,W34 Discharge from other and unspecified firearms,Penyakit Lainnya
+W39,W39 Discharge of firework,Penyakit Lainnya
+W44,W44 Foreign body entering into or through eye or natural orifice,Penyakit Lainnya
+W45,W45 Foreign body or object entering through skin,Penyakit Lainnya
+W46,W46 Contact with hypodermic needle,Penyakit Lainnya
+W49,W49 Exposure to other and unspecified inanimate mechanical forces,Penyakit Lainnya
+W50,"W50 Hit, struck, kicked, twisted, bitten or scratched by another person",Penyakit Lainnya
+W51,W51 Striking against or bumped into by another person,Penyakit Lainnya
+W53,W53 Bitten by rat,Penyakit Lainnya
+W54,W54 Bitten or struck by dog,Penyakit Lainnya
+W55,W55 Bitten or struck by other mammals,Penyakit Lainnya
+W56,W56 Contact with marine animal,Penyakit Lainnya
+W57,W57 Bitten or stung by nonvenomous insect and other nonvenomous arthropods,Penyakit Lainnya
+W59,W59 Bitten or crushed by other reptiles,Penyakit Lainnya
+W60,W60 Contact with plant thorns and spines and sharp leaves,Penyakit Lainnya
+W64,W64 Exposure to other and unspecified animate mechanical forces,Penyakit Lainnya
+W74,W74 Unspecified drowning and submersion,Penyakit Lainnya
+W78,W78 Inhalation of gastric contents,Penyakit Lainnya
+X00,X00 Exposure to uncontrolled fire in building or structure,Penyakit Lainnya
+X02,X02 Exposure to controlled fire in building or structure,Penyakit Lainnya
+X08,"X08 Exposure to other specified smoke, fire and flames",Penyakit Lainnya
+X09,"X09 Exposure to unspecified smoke, fire and flames",Penyakit Lainnya
+X11,X11 Contact with hot tap-water,Penyakit Lainnya
+X19,X19 Contact with other and unspecified heat and hot substances,Penyakit Lainnya
+X20,X20 Contact with venomous snakes and lizards,Penyakit Lainnya
+X22,X22 Contact with scorpions,Penyakit Lainnya
+X27,X27 Contact with other specified venomous animals,Penyakit Lainnya
+X47,X47 Accidental poisoning by and exposure to other gases and vapours,Penyakit Lainnya
+X48,X48 Accidental poisoning by and exposure to pesticides,Penyakit Lainnya
+X49,X49 Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances,Penyakit Lainnya
+X50,X50 Overexertion and strenuous or repetitive movements,Penyakit Lainnya
+X54,X54 Lack of water,Penyakit Lainnya
+X58,X58 Exposure to other specified factors,Penyakit Lainnya
+X59,X59 Exposure to unspecified factor,Penyakit Lainnya
+X60,"X60 Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",Penyakit Lainnya
+X64,"X64 Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",Penyakit Lainnya
+X68,X68 Intentional self-poisoning by and exposure to pesticides,Penyakit Lainnya
+Y01,Y01 Assault by pushing from high place,Penyakit Lainnya
+Y06,Y06 Neglect and abandonment,Penyakit Lainnya
+Y08,Y08 Assault by other specified means,Penyakit Lainnya
+Y22,"Y22 Handgun discharge, undetermined intent",Penyakit Lainnya
+Y28,"Y28 Contact with sharp object, undetermined intent",Penyakit Lainnya
+Y30,"Y30 Falling, jumping or pushed from a high place, undetermined intent",Penyakit Lainnya
+Y32,"Y32 Crashing of motor vehicle, undetermined intent",Penyakit Lainnya
+Y35,Y35 Legal intervention,Penyakit Lainnya
+Y40,Y40 Systemic antibiotics,Penyakit Lainnya
+Y42,"Y42 Hormones and their synthetic substitutes and antagonists, not elsewhere classified",Penyakit Lainnya
+Y45,"Y45 Analgesics, antipyretics and anti-inflammatory drugs",Penyakit Lainnya
+Y46,Y46 Antiepileptics and antiparkinsonism drugs,Penyakit Lainnya
+Y51,Y51 Drugs primarily affecting the autonomic nervous system,Penyakit Lainnya
+Y54,Y54 Agents primarily affecting water-balance and mineral and uric acid metabolism,Penyakit Lainnya
+Y55,Y55 Agents primarily acting on smooth and skeletal muscles and the respiratory system,Penyakit Lainnya
+Y57,Y57 Other and unspecified drugs and medicaments,Penyakit Lainnya
+Y58,Y58 Bacterial vaccines,Penyakit Lainnya
+Y60,"Y60 Unintentional cut, puncture, perforation or haemorrhage during surgical and medical care",Penyakit Lainnya
+Y61,Y61 Foreign object accidentally left in body during surgical and medical care,Penyakit Lainnya
+Y62,Y62 Failure of sterile precautions during surgical and medical care,Penyakit Lainnya
+Y70,Y70 Anaesthesiology devices associated with adverse incidents,Penyakit Lainnya
+Y72,Y72 Otorhinolaryngological devices associated with adverse incidents,Penyakit Lainnya
+Y73,Y73 Gastroenterology and urology devices associated with adverse incidents,Penyakit Lainnya
+Y75,Y75 Neurological devices associated with adverse incidents,Penyakit Lainnya
+Y76,Y76 Obstetric and gynaecological devices associated with adverse incidents,Penyakit Lainnya
+Y78,Y78 Radiological devices associated with adverse incidents,Penyakit Lainnya
+Y79,Y79 Orthopaedic devices associated with adverse incidents,Penyakit Lainnya
+Y80,Y80 Physical medicine devices associated with adverse incidents,Penyakit Lainnya
+Y81,Y81 General- and plastic-surgery devices associated with adverse incidents,Penyakit Lainnya
+Y82,Y82 Other and unspecified medical devices associated with adverse incidents,Penyakit Lainnya
+Y83,"Y83 Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Penyakit Lainnya
+Y84,"Y84 Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Penyakit Lainnya
+Y86,Y86 Sequelae of other accidents,Penyakit Lainnya
+Y89,Y89 Sequelae of other external causes,Penyakit Lainnya
+Y90,Y90 Evidence of alcohol involvement determined by blood alcohol level,Penyakit Lainnya
+Y96,Y96 Work-related condition,Penyakit Lainnya
+Z37,Z37 Outcome of delivery,Penyakit Lainnya
+Z57,Z57 Occupational exposure to risk-factors,Penyakit Lainnya
+Z62,Z62 Other problems related to upbringing,Penyakit Lainnya
+Z63,"Z63 Other problems related to primary support group, including family circumstances",Penyakit Lainnya
+Z64,Z64 Problems related to certain psychosocial circumstances,Penyakit Lainnya
+A70,A70 Chlamydia psittaci infection,Penyakit Lainnya
+E51,E51 Thiamine deficiency,Penyakit Lainnya
+E56,E56 Other vitamin deficiencies,Penyakit Lainnya
+E76,E76 Disorders of glycosaminoglycan metabolism,Penyakit Lainnya
+E90,E90 Nutritional and metabolic disorders in diseases classified elsewhere,Penyakit Lainnya
+F55,F55 Abuse of non-dependence-producing substances,Penyakit Lainnya
+G08,G08 Intracranial and intraspinal phlebitis and thrombophlebitis,Penyakit Lainnya
+P26,P26 Pulmonary haemorrhage originating in the perinatal period,Penyakit Lainnya
+P56,P56 Hydrops fetalis due to haemolytic disease,Penyakit Lainnya
+P91,P91 Other disturbances of cerebral status of newborn,Penyakit Lainnya
+Q32,Q32 Congenital malformations of trachea and bronchus,Penyakit Lainnya
+Q39,Q39 Congenital malformations of oesophagus,Penyakit Lainnya
+Q73,Q73 Reduction defects of unspecified limb,Penyakit Lainnya
+Q92,"Q92 Other trisomies and partial trisomies of the autosomes, not elsewhere classified",Penyakit Lainnya
+Q95,"Q95 Balanced rearrangements and structural markers, not elsewhere classified",Penyakit Lainnya
+Q98,"Q98 Other sex chromosome abnormalities, male phenotype, not elsewhere classified",Penyakit Lainnya
+R84,R84 Abnormal findings in specimens from respiratory organs and thorax,Penyakit Lainnya
+R85,R85 Abnormal findings in specimens from digestive organs and abdominal cavity,Penyakit Lainnya
+S75,S75 Injury of blood vessels at hip and thigh level,Penyakit Lainnya
+T48,T48 Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system,Penyakit Lainnya
+T53,T53 Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons,Penyakit Lainnya
+T57,T57 Toxic effect of other inorganic substances,Penyakit Lainnya
+T73,T73 Effects of other deprivation,Penyakit Lainnya
+U04,U04 Severe acute respiratory syndrome [SARS],Penyakit Lainnya
+U40,"U40 Severe acute respiratory syndrome, unspefied (SARS)",Penyakit Lainnya
+U80,U80 Methicillin resistant agent,Penyakit Lainnya
+U89,U89 Agent resistant to other single specified antibiotic,Penyakit Lainnya
+V02,V02 Pedestrian injured in collision with two- or three-wheeled motor vehicle,Kecelakaan
+V20,V20 Motorcycle rider injured in collision with pedestrian or animal,Kecelakaan
+V23,"V23 Motorcycle rider injured in collision with car, pick-up truck or van",Kecelakaan
+V43,"V43 Car occupant injured in collision with car, pick-up truck or van",Kecelakaan
+V49,V49 Car occupant injured in other and unspecified transport accidents,Kecelakaan
+V58,V58 Occupant of pick-up truck or van injured in noncollision transport accident,Kecelakaan
+V59,V59 Occupant of pick-up truck or van injured in other and unspecified transport accidents,Kecelakaan
+V79,V79 Bus occupant injured in other and unspecified transport accidents,Kecelakaan
+V80,V80 Animal-rider or occupant of animal-drawn vehicle injured in transport accident,Kecelakaan
+V81,V81 Occupant of railway train or railway vehicle injured in transport accident,Kecelakaan
+V86,"V86 Occupant of special all-terrain or other motor vehicle designed primarily for off-road use, injured in transport accident",Kecelakaan
+V87,V87 Traffic accident of specified type but victim's mode of transport unknown,Kecelakaan
+V88,V88 Nontraffic accident of specified type but victim's mode of transport unknown,Kecelakaan
+V92,V92 Water-transport-related drowning and submersion without accident to watercraft,Kecelakaan
+V95,V95 Accident to powered aircraft causing injury to occupant,Kecelakaan
+V99,V99 Unspecified transport accident,Kecelakaan
+W04,W04 Fall while being carried or supported by other persons,Penyakit Lainnya
+W05,W05 Fall involving wheelchair,Penyakit Lainnya
+W08,W08 Fall involving other furniture,Penyakit Lainnya
+W17,W17 Other fall from one level to another,Penyakit Lainnya
+W41,W41 Exposure to high-pressure jet,Penyakit Lainnya
+W42,W42 Exposure to noise,Penyakit Lainnya
+W68,W68 Drowning and submersion following fall into swimming-pool,Penyakit Lainnya
+W86,W86 Exposure to other specified electric current,Penyakit Lainnya
+W87,W87 Exposure to unspecified electric current,Penyakit Lainnya
+W89,W89 Exposure to man-made visible and ultraviolet light,Penyakit Lainnya
+X06,X06 Exposure to ignition or melting of other clothing and apparel,Penyakit Lainnya
+X10,"X10 Contact with hot drinks, food, fats and cooking oils",Penyakit Lainnya
+X23,"X23 Contact with hornets, wasps and bees",Penyakit Lainnya
+X37,X37 Victim of cataclysmic storm,Penyakit Lainnya
+X46,X46 Accidental poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours,Penyakit Lainnya
+X52,X52 Prolonged stay in weightless environment,Penyakit Lainnya
+X53,X53 Lack of food,Penyakit Lainnya
+X79,X79 Intentional self-harm by blunt object,Penyakit Lainnya
+X86,X86 Assault by corrosive substance,Penyakit Lainnya
+Y00,Y00 Assault by blunt object,Penyakit Lainnya
+Y02,Y02 Assault by pushing or placing victim before moving object,Penyakit Lainnya
+Y04,Y04 Assault by bodily force,Penyakit Lainnya
+Y11,"Y11 Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent",Penyakit Lainnya
+Y29,"Y29 Contact with blunt object, undetermined intent",Penyakit Lainnya
+Y31,"Y31 Falling, lying or running before or into moving object, undetermined intent",Penyakit Lainnya
+Y36,Y36 Operations of war,Penyakit Lainnya
+Y43,Y43 Primarily systemic agents,Penyakit Lainnya
+Y44,Y44 Agents primarily affecting blood constituents,Penyakit Lainnya
+Y52,Y52 Agents primarily affecting the cardiovascular system,Penyakit Lainnya
+Y59,Y59 Other and unspecified vaccines and biological substances,Penyakit Lainnya
+Y65,Y65 Other misadventures during surgical and medical care,Penyakit Lainnya
+Y77,Y77 Ophthalmic devices associated with adverse incidents,Penyakit Lainnya
+Y88,Y88 Sequelae with surgical and medical care as external cause,Penyakit Lainnya
+Z55,Z55 Problems related to education and literacy,Penyakit Lainnya
+,,Penyakit Lainnya
